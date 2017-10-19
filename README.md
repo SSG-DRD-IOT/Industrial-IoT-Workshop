@@ -90,7 +90,7 @@ If the IP address does not display, this is an indication that the Gateway was u
 
 1.  Double-click putty.exe on your computer to launch PuTTY.
 2.  Enter IP address of the Gateway
-3.  You can login with the username as **root** and the password **root**.
+3.  You can login with the username as **nuc-user** and the password **root**.
 
 Note that your development computer and your NUC device has to be on the same network with same subnet else it will not connect
 
@@ -101,7 +101,7 @@ Note that your development computer and your NUC device has to be on the same ne
 ![](./images/12.png)
 
 1.  Open Terminal
-2.  Type $ ssh root@ <<ip address="">>. Replace <<ip address="">> to IP address of your gateway. E.g. root@192.168.3.3</ip></ip>
+2.  Type $ ssh nuc-user@ <<ip address="">>. Replace <<ip address="">> to IP address of your gateway. E.g. nuc-user@192.168.3.3</ip></ip>
 3.  Enter root as password
 
 Note that your development computer and your NUC device has to be on the same network with same subnet else it will not connect
@@ -155,7 +155,7 @@ As shown in figure fill up the details for your device to connect to it remotely
 
 Give your device IP address as "Server" and your user name in "Username"
 
-Make sure that "Authentication method" is selected as "Password:" and enter your device passwrod there
+Make sure that "Authentication method" is selected as "Password:" and enter your device password there
 
 Click on Connect
 
