@@ -78,8 +78,6 @@ If you are using MacOSX or Linux on your development computer you can skip to th
 1.  Windows does not come with a built-in terminal emulator so download and use the PuTTY client.
 2.  Visit the [PuTTY download page](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html).
 3.  Under the "For Windows on Intel x86" heading, click on the "putty.exe" link to download the latest release version to your computer.
- 
-![](./images/10.png)
 
 ### Launch Putty and type in Your IP Address to connect
 
