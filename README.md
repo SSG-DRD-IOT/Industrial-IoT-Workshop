@@ -16,20 +16,19 @@ By the end of this module, you should be able to:
 
 ![](./images/1.png)
 
-The Grove* IoT Commercial Development Kit will provide you with a hardware and software stack to prototype and build Internet of Things services.
+The Grove* IoT Commercial Development Kit will provide you with the hardware and software to prototype and build IoT devices and  services.
 
 It comes with a IoT gateway which is an intermediate device between sensors, actuators and your corporate network or the cloud. The gateway allows you to efficiently collect and securely transport data from devices, remote users, and applications to serve your particular IoT application.
 
 It also comes with a starter pack of sensors. These sensors were put in the starter kit because they are commonly used in IoT projects. However, there are many other types of sensors that can be used with the Intel® IoT Gateway. The libupm sensor library current supports more than 300 types of sensors and actuators.
 
-## Connect to your Gateway's Wi-Fi Hotspot SSID
+## Quick Arduino* 101 Introduction
 
 ![](./images/2.png)
 
-The Arduino 101* board have been designed in collaboration with Intel. We use the Arduino 101* board because it offers easily-accessible pins for IoT sensors or the Grove* IoT Commercial Developer Kit, which is described below, and simplifies connection to them—you can easily attach your sensors to the Arduino 101* board and start communicating with them. The module contains two tiny cores, an x86 (Intel® Quark™ Compute Module) and a 32-bit ARC core, both clocked at 32MHz. The Intel toolchain compiles your Arduino sketches optimally, across both cores, to accomplish the most demanding tasks.
+The Arduino 101* board has been designed in collaboration with Intel. We are using it because it provides easily accessible GPIO pins for the sensors in the Grove* IoT Commercial Developer Kit. 
 
 The Arduino 101* comes with the following:
-
 *   14 digital input/output pins (four of which can be used as PWM outputs)
 *   Six analog inputs
 *   A USB connector for serial communication and sketch upload
@@ -40,9 +39,7 @@ The Arduino 101* comes with the following:
 
 ![](./images/3.png)
 
-Base shield will be included in the Grove starter kit. Attach Grove base shield with Arduino 101*.
-
-The base shield allow you to quickly attach and detach sensors to your device without the need for a breadboard or soldering.
+The Base shield is in the Grove* IoT Commercial Developer Kit. It uses a four pin wire to allow you to easily attach sensors to your device without a breadboard or soldering.
 
 ## Move Base Shield switch towards 5 Volts
 
@@ -50,7 +47,7 @@ The base shield allow you to quickly attach and detach sensors to your device wi
 
 Move Base Shield switch towards 5 Volts.
 
-Some sensors and actuators, such as the LCD screen, will not work properly unless the base shield is set to 5V.
+Some sensors and actuators, such as the LCD screen, will not work properly unless the base shield is set to 5V. In the case of the LCD screen the backlight will turn on with on 3.3V, but the text will not display.
 
 ## Connect LCD to Arduino 101*
 
@@ -70,7 +67,7 @@ Connect the LCD screen to any of the I<sup>2</sup>C pins on base shield.
 
 ![](./images/8.png)
 
-Press power button to start gateway. After around 2 minutes, it will display the IP address of Gateway on the LCD. Note Down the IP address.
+Press power button to start your gateway. After around 2 minutes, it will display the IP address of Gateway on the LCD. **Please, write down your IP address.*
 
 If the IP address does not display, this is an indication that the Gateway was unable to connect to the network. Please raise your hand and contact an Intel developer about the problem.
 
