@@ -1,4 +1,4 @@
-# Setup Development Environment
+# Setup and Connect to you NUCi7 Intel* IoT Gateway
 
 ## Lab Overview and Objectives
 
