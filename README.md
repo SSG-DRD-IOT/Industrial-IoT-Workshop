@@ -13,10 +13,9 @@ By the end of this module, you should be able to:
 *   Change the root password
 
 ## Getting Started with Grove* IoT Commercial Development Kit
+The Grove* IoT Commercial Development Kit will provide you with the hardware and software to prototype and build IoT devices and  services.
 
 ![](./images/1.png)
-
-The Grove* IoT Commercial Development Kit will provide you with the hardware and software to prototype and build IoT devices and  services.
 
 It comes with a IoT gateway which is an intermediate device between sensors, actuators and your corporate network or the cloud. The gateway allows you to efficiently collect and securely transport data from devices, remote users, and applications to serve your particular IoT application.
 
@@ -24,9 +23,9 @@ It also comes with a starter pack of sensors. These sensors were put in the star
 
 ## Quick Arduino* 101 Introduction
 
-![](./images/2.png)
-
 The Arduino 101* board has been designed in collaboration with Intel. We are using it because it provides easily accessible GPIO pins for the sensors in the Grove* IoT Commercial Developer Kit. 
+
+![](./images/2.png)
 
 The Arduino 101* comes with the following:
 *   14 digital input/output pins (four of which can be used as PWM outputs)
@@ -37,23 +36,22 @@ The Arduino 101* comes with the following:
 
 ## Connect Base shield to Arduino 101*
 
-![](./images/3.png)
-
 The Base shield is in the Grove* IoT Commercial Developer Kit. It uses a four pin wire to allow you to easily attach sensors to your device without a breadboard or soldering.
 
-## Move Base Shield switch towards 5 Volts
+![](./images/3.png)
 
-![](./images/4.png)
+## Move Base Shield switch towards 5 Volts
 
 Move Base Shield switch towards 5 Volts.
 
 Some sensors and actuators, such as the LCD screen, will not work properly unless the base shield is set to 5V. In the case of the LCD screen the backlight will turn on with on 3.3V, but the text will not display.
 
+![](./images/4.png)
+
 ## Connect LCD to Arduino 101*
+Connect the LCD screen to any of the I<sup>2</sup>C pins on base shield.
 
 ![](./images/5.png)
-
-Connect the LCD screen to any of the I<sup>2</sup>C pins on base shield.
 
 ### Now connect Arduino 101* with Intel® IoT Gateway via USB A-B cable.
 
@@ -65,29 +63,31 @@ Connect the LCD screen to any of the I<sup>2</sup>C pins on base shield.
 
 ## Press Power button to start Gateway
 
-![](./images/8.png)
-
 Press power button to start your gateway. After around 2 minutes, it will display the IP address of Gateway on the LCD. **Please, write down your IP address.*
+
+![](./images/8.png)
 
 If the IP address does not display, this is an indication that the Gateway was unable to connect to the network. Please raise your hand and contact an Intel developer about the problem.
 
 ## SSH to the Intel® IoT Gateway for Windows Users
 
-### Download Putty
+If you are using MacOSX or Linux on your development computer you can skip to the next section.
 
-![](./images/10.png)
+### Download Putty
 
 1.  Windows does not come with a built-in terminal emulator so download and use the PuTTY client.
 2.  Visit the [PuTTY download page](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html).
 3.  Under the "For Windows on Intel x86" heading, click on the "putty.exe" link to download the latest release version to your computer.
+ 
+![](./images/10.png)
 
 ### Launch Putty and type in Your IP Address to connect
-
-![](./images/11.png)
 
 1.  Double-click putty.exe on your computer to launch PuTTY.
 2.  Enter IP address of the Gateway
 3.  You can login with the username as **nuc-user** and the password **root**.
+
+![](./images/11.png)
 
 Note that your development computer and your NUC device has to be on the same network with same subnet else it will not connect
 
@@ -95,77 +95,13 @@ Note that your development computer and your NUC device has to be on the same ne
 
 ### Open a Console and use the ssh command to connect
 
-![](./images/12.png)
-
 1.  Open Terminal
 2.  Type $ ssh nuc-user@ <<ip address="">>. Replace <<ip address="">> to IP address of your gateway. E.g. nuc-user@192.168.3.3</ip></ip>
 3.  Enter root as password
 
+![](./images/12.png)
+
 Note that your development computer and your NUC device has to be on the same network with same subnet else it will not connect
-
-## Change the password of your Intel® IoT Gateway
-
-At the console type the follow:
-
-    passwd
-
-Follow the prompts at change your password.
-
-## Install and configure Atom Editor
-
-
-Atom is an open source text editor which we can use to write programs in our labs and then execute on the Intel® IoT Gateway
-
-It also has an option to connect remotely to your device so that all the files on the device can be accesible through Atom UI interface on your PC/laptop
-
-Download and install Atom for your host PC/laptop from the [atom.io](https://atom.io) link. Follow the instructions available on the link
-
-## Install nuclide plugin in Atom
-
-We will install version 0.226.0 of nuclide. Open a command prompt on your PC/laptop and enter following command:
-
-    apm install nuclide@0.226.0
-
-apm is atom package manager, in case if apm is not found, for e.g. on Windows PC set environment path variable to point to "C:\Users\{User login}\AppData\Local\atom\bin"
-
-## Restart Atom and Rebuild Nuclide package if necessary
-
-Close and restart Atom Editor
-
-If you see **Nuclide** as one of the menu option in Atom then it installed successfully and you don't need the below two steps
-
-As shown in figure if you see a red error icon on the bottom right corner, click on it and it will show that nuclide package needs rebuilding
-
-Click on **Rebuild Packages** and once it is completed, click on **Reload Atom** which will restart Atom and you should see Nuclide in the menu
-
-## Launch Remote connection from Nuclide
-
-Once nuclide is installed successfully on Atom you will see Nuclide home page as shown in figure
-
-Click on "Try it" button of **Remote Connection** on home page of Nuclide
-
-If you don't see the home page go to menu option **Nuclide->Remote Projects->Connect to Remote Project**
-
-## Configuration for Remote Connection to Intel® IoT Gateway
-
-As shown in figure fill up the details for your device to connect to it remotely. You can specify your **/home/{user name}"** directory as "Initial Directory"
-
-Give your device IP address as "Server" and your user name in "Username"
-
-Make sure that "Authentication method" is selected as "Password:" and enter your device password there
-
-Click on Connect
-
-If connection is successfull you should see your device home directory in "File Tree"
-
-## File Tree on Intel® IoT Gateway
-
-You can browse the File Tree on the left panel of Atom Editor and it will look similar to a sample as shown in figure. Here nuc-user is the user home directory
-
-In the next few labs you will create directories and files on Intel® IoT Gateway and you can do it remotely from your PC/laptop using Atom editor by right clicking on the parent folder and choosing **New->Folder** or **New->File**
-
-All the changes you do here will get automatically updated on your device
-
 ## Lab Conclusion
 
 ### Read about the next lab
