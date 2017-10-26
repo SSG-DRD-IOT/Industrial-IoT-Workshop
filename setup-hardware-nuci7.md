@@ -2,7 +2,7 @@
 
 ## Lab Overview and Objectives
 
-The labs in the Intel Commercial IoT Workshop are organized in a progression that will result in each attendee building their own automated and secured, multi-device IoT network.
+The labs in this workshop are organized in a progression that will result in each attendee building their own automated and secured, multi-device IoT network.
 
 Start by making sure your computer, Arduino 101*, and Intel® IoT Gateway are ready for IoT development.
 
@@ -10,7 +10,6 @@ By the end of this module, you should be able to:
 
 *   Unbox and setup your Intel® IoT Gateway and Arduino 101* Hardware
 *   Connect to your Intel® IoT Gateway from your development computer and open a console window
-*   Change the root password
 
 ## Getting Started with Grove* IoT Commercial Development Kit
 The Grove* IoT Commercial Development Kit will provide you with the hardware and software to prototype and build IoT devices and  services.
@@ -100,9 +99,8 @@ Note that your development computer and your NUC device has to be on the same ne
 ![](./images/nuci7/12.png)
 
 Note that your development computer and your NUC device has to be on the same network with same subnet else it will not connect
-## Lab Conclusion
 
-### Read about the next lab
+## Lab Conclusion
 
 Congratulations! You have successfully setup your Intel Iot Gateway and connected it to the Arduino 101*. In the next section, you will learn how build an IoT device from the starter kit and to develop an IoT application and deploy it to the Intel® IoT Gateway.
 
