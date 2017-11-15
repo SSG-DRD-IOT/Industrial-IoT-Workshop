@@ -16,8 +16,7 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
 * **Software Defined Industrial Systems - Sensors**
   - Slides - Sensor and Actuators
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
-  - Lab - Introduction to Digital GPIO - Choose one: [C language](https://github.com/SSG-DRD-IOT/lab-digital-sensors-c), [Arduino Create](https://github.com/SSG-DRD-IOT/lab-digital-sensors-arduino)
-  - Lab - Introduction to Analog Sensors - Choose one: [C Language](https://github.com/SSG-DRD-IOT/lab-analog-sensors-c), [Arduino Create](https://github.com/SSG-DRD-IOT/lab-analog-sensors-arduino)
+  - Lab - [Sensors and Actuators](https://github.com/SSG-DRD-IOT/toc-sensors)
 
 * **Software Defined Industrial Systems - Protocols**
   - Slides - Industrial Protocols
