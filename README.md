@@ -56,4 +56,4 @@ First is the [Up<sup>2</sup> Board](http://www.up-board.org/upsquared/). It feat
 ### NUC Core i7
  The second is a [NUC Core i7](https://www.intel.com/content/www/us/en/products/boards-kits/nuc/kits/nuc5i5ryh.html) with powerful performance in a small package. This NUC will be used to power machine learning, computer vision and large dataset jobs anywhere in your network.
 
-![](./images/nuc.jpg)
+![](./images/nuc.png)
