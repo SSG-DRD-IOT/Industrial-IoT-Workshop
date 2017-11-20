@@ -10,32 +10,34 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
 * **Formalizing the Industrial Internet of Things**
   - Slides - [Formalizing the Industrial Internet of Things](./presentations/02-Software-Defined-Industrial-Systems.pdf)
   - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
-  - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://ssg-drd-iot.github.io/lab-up2-setup),
-  - Lab - [Setup NUC Hardware](https://ssg-drd-iot.github.io//lab-nuci7-setup)
+  - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://github.com/SSG-DRD-IOT/lab-up2-setup),
+  - Lab - [Setup NUC Hardware](https://github.com/SSG-DRD-IOT/lab-nuci7-setup)
+  - Lab - [Setup Alternative IDEs](https://github.com/SSG-DRD-IOT/doc-alternative-IDEs)
 
 * **Software Defined Industrial Systems - Sensors**
   - Slides - [Sensor and Actuators](./presentations/03-Sensors-and-Actuators.pptx)
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
-  - Lab - [Sensors and Actuators](https://ssg-drd-iot.github.io//toc-sensors)
+  - Lab - [Sensors and Actuators](https://ssg-drd-iot.github.io/toc-sensors)
 
 * **Software Defined Industrial Systems - Protocols**
   - Slides - [Industrial Protocols](./presentations/04-Industrial-Protocols.pptx)
-  - Lab - [Publish sensor data over MQTT-TLS](https://ssg-drd-iot.github.io//lab-protocols-mqtt-c)
-  - Lab - [OPC-UA Server and Client](https://ssg-drd-iot.github.io//lab-sensors-opc-ua)
+  - Lab - [Publish sensor data over MQTT-TLS](https://ssg-drd-iot.github.io/lab-protocols-mqtt-c)
+  - Lab - [OPC-UA Server and Client](https://ssg-drd-iot.github.io/lab-sensors-opc-ua)
+  - Lab - [Virtual Sensor](https://ssg-drd-iot.github.io/virtual-sensor)
 
 * **Software Defined Industrial Systems - Automation**
   - Slides - [Automation and the IIoT](./presentations/05-Automation.pptx)
   - Video - [Beckhoff Industrial Solutions](https://www.intel.com/content/www/us/en/industrial-automation/products-and-solutions/intel-beckhoff-industrial-solutions-video.html)
-  - Lab - [Building an Automation Service](https://ssg-drd-iot.github.io//lab-iot-automation)
+  - Lab - [Building an Automation Service](https://ssg-drd-iot.github.io/lab-iot-automation)
 
 * **Security for IIoT**
   - Slides: [Security for IIoT](./presentations/06-Security-Architecture.pptx)
-  - Lab: [Security Concepts](https://ssg-drd-iot.github.io//lab-nuc-security)
+  - Lab: [Security Concepts](https://ssg-drd-iot.github.io/lab-nuc-security)
 
 * **Computer Vision**
   - Slides: [Computer Vision](./presentations/07-Computer-Vision.pptx)
   - Demo: Movidius Lane Detection, OpenVX Lane Detection
-  - Lab: [OpenCV Basics and Lane Detection Lab](https://ssg-drd-iot.github.io//lab-opencv-examples)
+  - Lab: [OpenCV Basics and Lane Detection Lab](https://ssg-drd-iot.github.io/lab-opencv-examples)
 
 * **Feedback, Survey and Conclusion**
 
