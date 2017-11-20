@@ -23,6 +23,7 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
   - Slides - [Industrial Protocols](./presentations/04-Industrial-Protocols.pptx)
   - Lab - [Publish sensor data over MQTT-TLS](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-c)
   - Lab - [OPC-UA Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
+  - Lab - [Virtual Sensor](https://github.com/SSG-DRD-IOT/virtual-sensor)
 
 * **Software Defined Industrial Systems - Automation**
   - Slides - [Automation and the IIoT](./presentations/05-Automation.pptx)
