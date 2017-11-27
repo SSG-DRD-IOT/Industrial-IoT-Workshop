@@ -32,6 +32,7 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
 
 * **Security for IIoT**
   - Slides: [Security for IIoT](./presentations/06-Security-Architecture.pptx)
+  - Videos: [Introduction to Intel Secure Device Onboard](https://www.youtube.com/watch?v=D3UqrndXs8E)
   - Lab: [Security Concepts](https://ssg-drd-iot.github.io/lab-nuc-security)
 
 * **Computer Vision**
