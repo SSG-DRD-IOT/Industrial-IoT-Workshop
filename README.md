@@ -40,7 +40,7 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
   - Video: [Introduction to the Movidious Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
   - Video: [Mouser Product Brief on Movidious Neural Computer Stick](https://www.youtube.com/watch?v=gl_iKYr9EKk)
   - Demo: Movidius Lane Detection, OpenVX Lane Detection
-  - Lab: [OpenCV Basics and Lane Detection Lab](https://ssg-drd-iot.github.io/lab-opencv-examples)
+  - Lab: [OpenCV Basics and Lane Detection Lab](https://github.com/SSG-DRD-IOT/lab-opencv-examples/)
 
 * **Feedback, Survey and Conclusion**
 
