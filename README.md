@@ -2,6 +2,8 @@
 # Intel Industrial IoT Workshop Setup Guide
 Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore Industry 4.0 technologies through lectures and hands on labs. By the end of the workshop, you should have a solid understanding of different Industry 4.0 technologies and have some working ideas of how to implement them in your place of business.
 
+**Begin on the lab time by clicking on the first lab below**
+
 ## Workshop Agenda
 * **Introduction to Industrial Internet of Things**
   - Slide Deck - [Introduction to Industrial Internet of Things](./presentations/01-Introduction-to-the-Industrial-Internet-of-Things.pdf)
@@ -11,7 +13,6 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
   - Slides - [Formalizing the Industrial Internet of Things](./presentations/02-Software-Defined-Industrial-Systems.pdf)
   - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
   - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://ssg-drd-iot.github.io/lab-up2-setup),
-  - Lab - [Setup NUC Hardware](https://ssg-drd-iot.github.io/lab-nuci7-setup)
   - Lab - [Setup Alternative IDEs](https://ssg-drd-iot.github.io/doc-alternative-IDEs)
 
 * **Software Defined Industrial Systems - Sensors**
