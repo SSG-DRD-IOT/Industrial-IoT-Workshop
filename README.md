@@ -10,7 +10,7 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
 * **Formalizing the Industrial Internet of Things**
   - Slides - [Formalizing the Industrial Internet of Things](./presentations/02-Software-Defined-Industrial-Systems.pdf)
   - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
-  - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://ssg-drd-iot.github.io/lab-up2-setup),
+  - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://software.intel.com/en-us/upsquared-grove-getting-started-guide),
   - Lab - [Extra Infomration - Setup Alternative IDEs](https://ssg-drd-iot.github.io/doc-alternative-IDEs)
 
 * **Software Defined Industrial Systems - Sensors**
