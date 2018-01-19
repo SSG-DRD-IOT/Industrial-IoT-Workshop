@@ -11,7 +11,6 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
   - Slides - [Formalizing the Industrial Internet of Things](./presentations/02-Software-Defined-Industrial-Systems.pdf)
   - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
   - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://software.intel.com/en-us/upsquared-grove-getting-started-guide),
-  - Lab - [Extra Infomration - Setup Alternative IDEs](https://ssg-drd-iot.github.io/doc-alternative-IDEs)
 
 * **Software Defined Industrial Systems - Sensors**
   - Slides - [Sensor and Actuators](./presentations/03-Sensors-and-Actuators.pptx)
@@ -33,6 +32,9 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
   - Slides: [Security for IIoT](./presentations/06-Security-Architecture.pptx)
   - Videos: [Introduction to Intel Secure Device Onboard](https://www.youtube.com/watch?v=D3UqrndXs8E)
   - Lab: [Security Concepts](https://ssg-drd-iot.github.io/lab-nuc-security)
+  
+* **Additional Information** 
+  - Lab - [Extra Infomration - Setup Alternative IDEs](https://ssg-drd-iot.github.io/doc-alternative-IDEs)
 
 * **Computer Vision**
   - Slides: [Computer Vision](./presentations/07-Computer-Vision.pptx)
