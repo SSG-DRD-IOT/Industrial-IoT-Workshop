@@ -2,6 +2,29 @@
 # Intel Industrial IoT Workshop Setup Guide
 Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore Industry 4.0 technologies through lectures and hands on labs. By the end of the workshop, you should have a solid understanding of different Industry 4.0 technologies and have some working ideas of how to implement them in your place of business.
 
+## How Do I Use the Lab Material
+
+The links below will guide the workshop attendee through the slides, videos and labs in the Intel Industrial IoT Workshop. 
+
+The first lab, [Setup the Up<sup>2</sup> Board Hardware](https://software.intel.com/en-us/upsquared-grove-getting-started-guide), is a preperatory lab to setup the hardware and software used in the rest of the labs, and to deploy a sample program to be sure that the attendee has correct understood the workflow to write, compile and deploy an application.
+
+The sensor and protocol labs use the Up2 Board, the sensors from the hardware kit and the Arduino Create environment to prototype a sensor, use the MRAA and UPM libraries to create the interface between the sensor and the Up2 board and then explore several different network protocols common to the IIoT.
+
+Next, we will spend some time talking about different types of automation and use a Juypter Notebook running Python to build a rules-based automation service.
+
+Lastly, we will look at the smart video field, where software and hardware are merging to produce new intelligent video systems.
+
+The Intel IoT Developer Relations team, hopes that you enjoy this IIoT Workshop.
+
+## Social Media and Feedback
+
+If you are posting on social media the hashtags for the event are ***IntelIoT*** and **CommercialIoT**.
+
+Feel free to talk to any of the Intel people at this event to leave feedback.
+
+Also if you find errors in the workshop material all of our labs are on Github. feel free to fork any repository and send us a pull request. Afterall, that's why we are on Github.
+
+
 ## Workshop Agenda
 * **Introduction to Industrial Internet of Things**
   - Slide Deck - [Introduction to Industrial Internet of Things](./presentations/01-Introduction-to-the-Industrial-Internet-of-Things.pdf)
