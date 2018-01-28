@@ -61,8 +61,8 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 
 * **Computer Vision**
   - Slides: [Computer Vision](./presentations/07-Computer-Vision.pptx)
-  - Video: [Introduction to the Movidious Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
-  - Video: [Mouser Product Brief on Movidious Neural Computer Stick](https://www.youtube.com/watch?v=gl_iKYr9EKk)
+  - Video: [Introduction to the Movidius Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
+  - Video: [Mouser Product Brief on Movidius Neural Computer Stick](https://www.youtube.com/watch?v=gl_iKYr9EKk)
   - Demo: Movidius Lane Detection, OpenVX Lane Detection
   - Lab: [OpenCV Basics and Lane Detection Lab](https://github.com/SSG-DRD-IOT/lab-opencv-examples/)
 
