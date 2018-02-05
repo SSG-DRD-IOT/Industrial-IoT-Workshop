@@ -49,13 +49,8 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 * **Software Defined Industrial Systems - Automation**
   - Slides - [Automation and the IIoT](./presentations/05-Automation.pptx)
   - Video - [Beckhoff Industrial Solutions](https://www.intel.com/content/www/us/en/industrial-automation/products-and-solutions/intel-beckhoff-industrial-solutions-video.html)
-  - Lab - [Building an Automation Service](https://ssg-drd-iot.github.io/lab-iot-automation)
+  - Lab - Choose either lab [Building an Automation Service in Python](https://ssg-drd-iot.github.io/lab-automation-jupyter/) or [Building an Automation Service in JavaScript](https://ssg-drd-iot.github.io/lab-iot-automation)
 
-* **Security for IIoT**
-  - Slides: [Security for IIoT](./presentations/06-Security-Architecture.pptx)
-  - Videos: [Introduction to Intel Secure Device Onboard](https://www.youtube.com/watch?v=D3UqrndXs8E)
-  - Lab: [Security Concepts](https://ssg-drd-iot.github.io/lab-nuc-security)
-  
 * **Additional Information** 
   - Lab - [Extra Infomration - Setup Alternative IDEs](https://ssg-drd-iot.github.io/doc-alternative-IDEs)
 
