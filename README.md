@@ -4,7 +4,7 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
 
 ## How Do I Use the Lab Material
 
-The links below will guide the workshop attendee through the slides, videos and labs in the Intel Industrial IoT Workshop. 
+The links below will guide the workshop attendee through the slides, videos and labs in the Intel Industrial IoT Workshop.
 
 The first lab, [Setup the Up<sup>2</sup> Board Hardware](https://software.intel.com/en-us/upsquared-grove-getting-started-guide), is a preperatory lab to setup the hardware and software used in the rest of the labs, and to deploy a sample program to be sure that the attendee has correct understood the workflow to write, compile and deploy an application.
 
@@ -27,35 +27,35 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 
 ## Workshop Agenda
 * **Introduction to Industrial Internet of Things**
-  - Slide Deck - [Introduction to Industrial Internet of Things](./presentations/01-Introduction-to-the-Industrial-Internet-of-Things.pdf)
+  - Slide Deck - [Introduction to Industrial Internet of Things](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/01-Introduction-to-the-Industrial-Internet-of-Things.pptx)
   - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
 
 * **Formalizing the Industrial Internet of Things**
-  - Slides - [Formalizing the Industrial Internet of Things](./presentations/02-Software-Defined-Industrial-Systems.pdf)
+  - Slides - [Formalizing the Industrial Internet of Things](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/02-Software-Defined-Industrial-Systems.pptx)
   - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
   - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://software.intel.com/en-us/upsquared-grove-getting-started-guide),
 
 * **Software Defined Industrial Systems - Sensors**
-  - Slides - [Sensor and Actuators](./presentations/03-Sensors-and-Actuators.pptx)
+  - Slides - [Sensor and Actuators](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/03-Sensors-and-Actuators.pptx)
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
   - Lab - [Sensors and Actuators](https://ssg-drd-iot.github.io/toc-sensors)
 
 * **Software Defined Industrial Systems - Protocols**
-  - Slides - [Industrial Protocols](./presentations/04-Industrial-Protocols.pptx)
+  - Slides - [Industrial Protocols](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/04-Industrial-Protocols.pptx)
   - Lab - [Publish sensor data over MQTT-TLS](https://ssg-drd-iot.github.io/lab-protocols-mqtt-arduino/)
   - Lab - [OPC-UA Server and Client](https://ssg-drd-iot.github.io/lab-sensors-opc-ua)
   - Lab - [Virtual Sensor](https://ssg-drd-iot.github.io/virtual-sensor)
 
 * **Software Defined Industrial Systems - Automation**
-  - Slides - [Automation and the IIoT](./presentations/05-Automation.pptx)
+  - Slides - [Automation and the IIoT](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/05-Automation.pptx)
   - Video - [Beckhoff Industrial Solutions](https://www.intel.com/content/www/us/en/industrial-automation/products-and-solutions/intel-beckhoff-industrial-solutions-video.html)
   - Lab - Choose either lab [Building an Automation Service in Python](https://ssg-drd-iot.github.io/lab-automation-jupyter/) or [Building an Automation Service in JavaScript](https://ssg-drd-iot.github.io/lab-iot-automation)
 
-* **Additional Information** 
+* **Additional Information**
   - Lab - [Extra Infomration - Setup Alternative IDEs](https://ssg-drd-iot.github.io/doc-alternative-IDEs)
 
 * **Computer Vision**
-  - Slides: [Computer Vision](./presentations/07-Computer-Vision.pptx)
+  - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/07-Computer-Vision.pptx)
   - Video: [Introduction to the Movidious Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
   - Video: [Mouser Product Brief on Movidious Neural Computer Stick](https://www.youtube.com/watch?v=gl_iKYr9EKk)
   - Demo: Movidius Lane Detection, OpenVX Lane Detection
