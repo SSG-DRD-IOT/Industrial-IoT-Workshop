@@ -39,8 +39,8 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 
 * **Software Defined Industrial Systems - Protocols**
   - Slides - [Industrial Protocols](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/04-Industrial-Protocols.pptx)
-  - Lab - [Publish sensor data over MQTT-TLS](https://https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)
-  - Lab - [OPC-UA Server and Client](https://https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
+  - Lab - [Publish sensor data over MQTT-TLS](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)
+  - Lab - [OPC-UA Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
   - Lab - [Virtual Sensor](https://github.com/SSG-DRD-IOT/virtual-sensor)
 
 * **Software Defined Industrial Systems - Automation**
