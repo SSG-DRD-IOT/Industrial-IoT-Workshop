@@ -29,30 +29,27 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 * **Introduction to Industrial Internet of Things**
   - Slide Deck - [Introduction to Industrial Internet of Things](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/01-Introduction-to-the-Industrial-Internet-of-Things.pptx)
   - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
-
-* **Formalizing the Industrial Internet of Things**
-  - Slides - [Formalizing the Industrial Internet of Things](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/02-Software-Defined-Industrial-Systems.pptx)
   - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
-  - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://software.intel.com/en-us/upsquared-grove-getting-started-guide),
+  - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://github.com/SSG-DRD-IOT/lab-up2-setup),
 
 * **Software Defined Industrial Systems - Sensors**
   - Slides - [Sensor and Actuators](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/03-Sensors-and-Actuators.pptx)
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
-  - Lab - [Sensors and Actuators](https://ssg-drd-iot.github.io/toc-sensors)
+  - Lab - [Sensors and Actuators](https://github.com/SSG-DRD-IOT/toc-sensors)
 
 * **Software Defined Industrial Systems - Protocols**
   - Slides - [Industrial Protocols](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/04-Industrial-Protocols.pptx)
-  - Lab - [Publish sensor data over MQTT-TLS](https://ssg-drd-iot.github.io/lab-protocols-mqtt-arduino/)
-  - Lab - [OPC-UA Server and Client](https://ssg-drd-iot.github.io/lab-sensors-opc-ua)
-  - Lab - [Virtual Sensor](https://ssg-drd-iot.github.io/virtual-sensor)
+  - Lab - [Publish sensor data over MQTT-TLS](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)
+  - Lab - [OPC-UA Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
+  - Lab - [Virtual Sensor](https://github.com/SSG-DRD-IOT/virtual-sensor)
 
 * **Software Defined Industrial Systems - Automation**
   - Slides - [Automation and the IIoT](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/05-Automation.pptx)
   - Video - [Beckhoff Industrial Solutions](https://www.intel.com/content/www/us/en/industrial-automation/products-and-solutions/intel-beckhoff-industrial-solutions-video.html)
-  - Lab - Choose either lab [Building an Automation Service in Python](https://ssg-drd-iot.github.io/lab-automation-jupyter/) or [Building an Automation Service in JavaScript](https://ssg-drd-iot.github.io/lab-iot-automation)
+  - Lab - Choose either lab [Building an Automation Service in Python](https://github.com/SSG-DRD-IOT/lab-automation-jupyter/) or [Building an Automation Service in JavaScript](https://github.com/SSG-DRD-IOT/lab-iot-automation)
 
 * **Additional Information**
-  - Lab - [Extra Infomration - Setup Alternative IDEs](https://ssg-drd-iot.github.io/doc-alternative-IDEs)
+  - Lab - [Extra Infomration - Setup Alternative IDEs](https://github.com/SSG-DRD-IOT/doc-alternative-IDEs)
 
 * **Computer Vision**
   - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/07-Computer-Vision.pptx)
