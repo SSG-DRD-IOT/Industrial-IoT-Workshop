@@ -58,6 +58,10 @@ Also if you find errors in the workshop material all of our labs are on Github. 
   - Demo: Movidius Lane Detection, OpenVX Lane Detection
   - Lab: [OpenCV Basics and Lane Detection Lab](https://github.com/SSG-DRD-IOT/lab-opencv-examples/)
 
+* **Security**
+  - Slides: coming soon
+  - Userful article: https://software.intel.com/en-us/articles/intel-enhanced-privacy-id-epid-security-technology
+
 * **Feedback, Survey and Conclusion**
 
 ## Hardware Used in this Workshop
