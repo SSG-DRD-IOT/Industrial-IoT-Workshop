@@ -59,7 +59,7 @@ Also if you find errors in the workshop material all of our labs are on Github. 
   - Lab: [OpenCV Basics and Lane Detection Lab](https://github.com/SSG-DRD-IOT/lab-opencv-examples/)
 
 * **Security**
-  - Slides: [Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/06-Security-Architecture 4:2018.pptx) 
+  - Slides: [Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/06-Security-Architecture%204:2018.pptx) 
   - Userful article: https://software.intel.com/en-us/articles/intel-enhanced-privacy-id-epid-security-technology
 
 * **Feedback, Survey and Conclusion**
