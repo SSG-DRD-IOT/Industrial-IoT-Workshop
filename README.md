@@ -39,7 +39,7 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 
 * **Software Defined Industrial Systems - Protocols**
   - Slides - [Industrial Protocols](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/04-Industrial-Protocols.pptx)
-  - Lab - [Publish sensor data over MQTT-TLS](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)
+  - Lab - [Publish sensor data over MQTT](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)
   - Lab - [OPC-UA Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
   - Lab - [Virtual Sensor](https://github.com/SSG-DRD-IOT/virtual-sensor)
 
@@ -53,10 +53,16 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 
 * **Computer Vision**
   - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/07-Computer-Vision.pptx)
-  - Video: [Introduction to the Movidious Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
-  - Video: [Mouser Product Brief on Movidious Neural Computer Stick](https://www.youtube.com/watch?v=gl_iKYr9EKk)
+  - Video: [Introduction to the Movidius Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
+  - Video: [Mouser Product Brief on Movidius Neural Computer Stick](https://www.youtube.com/watch?v=gl_iKYr9EKk)
   - Demo: Movidius Lane Detection, OpenVX Lane Detection
-  - Lab: [OpenCV Basics and Lane Detection Lab](https://github.com/SSG-DRD-IOT/lab-opencv-examples/)
+  - Lab: 
+1. Open your browser on your development computer and type into the address bar the **IP address of your Up2 board** and the port     number 8888, like this http://<your IP address>:8888
+2. You should see the root directory of your Up2 board. Navigate to /home/upsquared/Desktop/Lab Answers/lab-opencv-examples/
+3. There are three sections:
+    * 1_OpenCV_Basics.ipynb 
+    * 2_edge_detection.ipynb  
+    * 3_face_detection.ipynb  
 
 * **Security**
   - Slides: [Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/06-Security-Architecture%204:2018.pptx) 
