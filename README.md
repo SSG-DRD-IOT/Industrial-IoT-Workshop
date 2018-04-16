@@ -6,7 +6,7 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
 
 The links below will guide the workshop attendee through the slides, videos and labs in the Intel Industrial IoT Workshop.
 
-The first lab, [Setup the Up<sup>2</sup> Board Hardware](https://software.intel.com/en-us/upsquared-grove-getting-started-guide), is a preperatory lab to setup the hardware and software used in the rest of the labs, and to deploy a sample program to be sure that the attendee has correct understood the workflow to write, compile and deploy an application.
+The first lab, [Setup the Up<sup>2</sup> Board Hardware](https://github.com/SSG-DRD-IOT/lab-up2-setup), is a preperatory lab to setup the hardware and software used in the rest of the labs, and to deploy a sample program to be sure that the attendee has correct understood the workflow to write, compile and deploy an application.
 
 The sensor and protocol labs use the Up2 Board, the sensors from the hardware kit and the Arduino Create environment to prototype a sensor, use the MRAA and UPM libraries to create the interface between the sensor and the Up2 board and then explore several different network protocols common to the IIoT.
 
