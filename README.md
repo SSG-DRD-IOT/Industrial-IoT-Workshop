@@ -42,7 +42,6 @@ Here are some tools you may require to install on your workstation to help you c
 * **Software Defined Industrial Systems - Formalizing Industrial IoT**
   - Slide Deck - [Software Defined Industrial Systems](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/02-Software-Defined-Industrial-Systems.pptx)
   - Video - [Industry 4.0 Plug&Play by Alleantia and Intel](https://vimeo.com/185239991)
-  - Video - [Beckhoff Industrial Solutions](https://www.intel.com/content/www/us/en/industrial-automation/products-and-solutions/intel-beckhoff-industrial-solutions-video.html)
 
 * **Software Defined Industrial Systems - Sensors**
   - Slides - [Sensor and Actuators](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/03-Sensors-and-Actuators.pptx)
@@ -50,22 +49,22 @@ Here are some tools you may require to install on your workstation to help you c
   - Lab - [Sensors and Actuators](https://github.com/SSG-DRD-IOT/toc-sensors/tree/milano-workshop)
 
 * **Software Defined Industrial Systems - Protocols**
-  - Slides - [Industrial Protocols](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/04-Industrial-Protocols.pptx)
+  - Slides - [Industrial Protocols](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/04-Industrial-Protocols.pptx)
   - Lab - [Publish sensor data over MQTT](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)
   - Lab - [OPC-UA Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
   - Lab - [Virtual Sensor](https://github.com/SSG-DRD-IOT/virtual-sensor)
 
-* **Security**
-  - Slides: [Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/06-Security-Architecture%204:2018.pptx) 
+* **Internet of Things - Security**
+  - Slides: [IoT Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/06-Security-Architecture%204:2018.pptx) 
   - Userful article: https://software.intel.com/en-us/articles/intel-enhanced-privacy-id-epid-security-technology
 
 * **Software Defined Industrial Systems - Automation**
-  - Slides - [Automation and the IIoT](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/05-Automation.pptx)
+  - Slides - [Automation and the IIoT](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/05-Automation.pptx)
   - Python Lab - [Building an Automation Service in Python](https://github.com/SSG-DRD-IOT/lab-automation-jupyter/) 
   - JS Lab - [Building an Automation Service in JavaScript](https://github.com/SSG-DRD-IOT/lab-iot-automation)
 
-* **Computer Vision**
-  - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/07-Computer-Vision.pptx)
+* **Internet of Things - Computer Vision**
+  - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/07-Computer-Vision.pptx)
   - Video: [Introduction to the Movidius Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
   - Video: [Mouser Product Brief on Movidius Neural Computer Stick](https://www.youtube.com/watch?v=gl_iKYr9EKk)
   - Demo: Movidius Lane Detection, OpenVX Lane Detection
@@ -90,6 +89,6 @@ First is the [Up<sup>2</sup> Board](http://www.up-board.org/upsquared/). It feat
 
 ![](images/up2.png)
 
-## Additional Information
+## Additional Material
   - Lab - [Extra Infomration - Setup Alternative IDEs](https://github.com/SSG-DRD-IOT/doc-alternative-IDEs)
 
