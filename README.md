@@ -24,6 +24,12 @@ Feel free to talk to any of the Intel people at this event to leave feedback.
 
 Also if you find errors in the workshop material all of our labs are on Github. feel free to fork any repository and send us a pull request. Afterall, that's why we are on Github.
 
+## Before Starting Workshop
+Here are some tools you may require to install on your workstation to help you cover labs.
+
+  - SSH Client for Windows: https://putty.org 
+
+  *username*/*password* for UP2 Board: *upsquared*/*upsquared*
 
 ## Workshop Agenda
 * **Introduction to Industrial Internet of Things**
