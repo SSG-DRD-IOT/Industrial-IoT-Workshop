@@ -55,9 +55,14 @@ Here are some tools you may require to install on your workstation to help you c
   - Lab - [OPC-UA Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
   - Lab - [Virtual Sensor](https://github.com/SSG-DRD-IOT/virtual-sensor)
 
+* **Security**
+  - Slides: [Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/06-Security-Architecture%204:2018.pptx) 
+  - Userful article: https://software.intel.com/en-us/articles/intel-enhanced-privacy-id-epid-security-technology
+
 * **Software Defined Industrial Systems - Automation**
   - Slides - [Automation and the IIoT](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/05-Automation.pptx)
-  - Lab - Choose either lab [Building an Automation Service in Python](https://github.com/SSG-DRD-IOT/lab-automation-jupyter/) or [Building an Automation Service in JavaScript](https://github.com/SSG-DRD-IOT/lab-iot-automation)
+  - Python Lab - [Building an Automation Service in Python](https://github.com/SSG-DRD-IOT/lab-automation-jupyter/) 
+  - JS Lab - [Building an Automation Service in JavaScript](https://github.com/SSG-DRD-IOT/lab-iot-automation)
 
 * **Computer Vision**
   - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/07-Computer-Vision.pptx)
@@ -71,10 +76,6 @@ Here are some tools you may require to install on your workstation to help you c
     * 1_OpenCV_Basics.ipynb 
     * 2_edge_detection.ipynb  
     * 3_face_detection.ipynb  
-
-* **Security**
-  - Slides: [Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/06-Security-Architecture%204:2018.pptx) 
-  - Userful article: https://software.intel.com/en-us/articles/intel-enhanced-privacy-id-epid-security-technology
 
 * **Feedback, Survey and Conclusion**
 
