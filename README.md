@@ -48,9 +48,6 @@ Also if you find errors in the workshop material all of our labs are on Github. 
   - Video - [Beckhoff Industrial Solutions](https://www.intel.com/content/www/us/en/industrial-automation/products-and-solutions/intel-beckhoff-industrial-solutions-video.html)
   - Lab - Choose either lab [Building an Automation Service in Python](https://github.com/SSG-DRD-IOT/lab-automation-jupyter/) or [Building an Automation Service in JavaScript](https://github.com/SSG-DRD-IOT/lab-iot-automation)
 
-* **Additional Information**
-  - Lab - [Extra Infomration - Setup Alternative IDEs](https://github.com/SSG-DRD-IOT/doc-alternative-IDEs)
-
 * **Computer Vision**
   - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/07-Computer-Vision.pptx)
   - Video: [Introduction to the Movidius Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
@@ -78,5 +75,9 @@ Intel offers scalable hardware solutions at different power, performance and pri
 
 ### Up<sup>2</sup> Board
 First is the [Up<sup>2</sup> Board](http://www.up-board.org/upsquared/). It features a 40 Pin I/O connector, multiple USB 3.0 ports, double Gigabit Ethernet, HDMI and more other features make it a perfect solution for different domains and products like Robotics, Drone, Machine Vision, Smart Home, Education, Digital Signage, Intelligent Cars, Internet Of Things. The compatibility with Linux, Android, and all the Windows 10 distributions give you great flexibility, scalability and quick time to market.
+
+**Additional Information**
+  - Lab - [Extra Infomration - Setup Alternative IDEs](https://github.com/SSG-DRD-IOT/doc-alternative-IDEs)
+
 
 ![](images/up2.png)
