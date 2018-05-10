@@ -28,6 +28,7 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 Here are some tools you may require to install on your workstation to help you cover labs.
 
   - SSH Client for Windows: https://putty.org 
+  - Suggested web browser for Arduino Create is Google Chrome: https://www.google.com/chrome/
 
   *username*/*password* for UP2 Board: *upsquared*/*upsquared*
 
