@@ -49,9 +49,9 @@ Here are some tools you may require to install on your workstation to help you c
   - Lab - [Sensors and Actuators](https://github.com/SSG-DRD-IOT/toc-sensors/tree/milano-workshop)
 
 * **Software Defined Industrial Systems - Protocols**
-  - Slides - [Industrial Protocols](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/04-Industrial-Protocols.pptx)
-  - Lab - [Publish sensor data over MQTT](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)
-  - Lab - [OPC-UA Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
+  - Slides - [Industrial Protocols]https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/04-Industrial-Protocols.pptx)
+  - Lab - [MQTT - Client Publish/Subscribe](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)
+  - Lab - [OPC-UA - Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
   
 * **Internet of Things - Security**
   - Slides: [IoT Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/06-Security-Architecture%204:2018.pptx) 
