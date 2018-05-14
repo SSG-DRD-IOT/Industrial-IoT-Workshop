@@ -49,19 +49,19 @@ Here are some tools you may require to install on your workstation to help you c
   - Lab - [Sensors and Actuators](https://github.com/SSG-DRD-IOT/toc-sensors/tree/milano-workshop)
 
 * **Software Defined Industrial Systems - Protocols**
-  - Slides - [Industrial Protocols]https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/04-Industrial-Protocols.pptx)
+  - Slides - [Industrial Protocols](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/04-Industrial-Protocols.pptx)
   - Lab - [MQTT - Client Publish/Subscribe](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)
   - Lab - [OPC-UA - Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
-  
-* **Internet of Things - Security**
-  - Slides: [IoT Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/06-Security-Architecture%204:2018.pptx) 
-  - Userful article: https://software.intel.com/en-us/articles/intel-enhanced-privacy-id-epid-security-technology
 
 * **Software Defined Industrial Systems - Automation**
   - Slides - [Automation and the IIoT](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/05-Automation.pptx)
   - Lab - [Virtual Sensor](https://github.com/SSG-DRD-IOT/virtual-sensor)
   - Python Lab - [Building an Automation Service in Python](https://github.com/SSG-DRD-IOT/lab-automation-jupyter/) 
   - JS Lab - [Building an Automation Service in JavaScript](https://github.com/SSG-DRD-IOT/lab-iot-automation)
+  
+* **Internet of Things - Security**
+  - Slides: [IoT Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/06-Security-Architecture%204:2018.pptx) 
+  - Userful article: https://software.intel.com/en-us/articles/intel-enhanced-privacy-id-epid-security-technology
 
 * **Internet of Things - Computer Vision**
   - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/07-Computer-Vision.pptx)
