@@ -60,8 +60,8 @@ Here are some tools you may require to install on your workstation to help you c
   - JS Lab - [Building an Automation Service in JavaScript](https://github.com/SSG-DRD-IOT/lab-iot-automation)
   
 * **Internet of Things - Security**
-  - Slides: [IoT Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/06-Security-Architecture%204:2018.pptx) 
-  - Userful article: https://software.intel.com/en-us/articles/intel-enhanced-privacy-id-epid-security-technology
+  - Slides: [IoT Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/06-Security-Architecture.pptx) 
+  - Resource: [Intel EPID Article](https://software.intel.com/en-us/articles/intel-enhanced-privacy-id-epid-security-technology)
 
 * **Internet of Things - Computer Vision**
   - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/07-Computer-Vision.pptx)
