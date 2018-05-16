@@ -67,14 +67,8 @@ Here are some tools you may require to install on your workstation to help you c
   - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/07-Computer-Vision.pptx)
   - Video: [Introduction to the Movidius Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
   - Video: [Mouser Product Brief on Movidius Neural Computer Stick](https://www.youtube.com/watch?v=gl_iKYr9EKk)
-  - Demo: Movidius Lane Detection, OpenVX Lane Detection
-  - Lab: 
-1. Open your browser on your development computer and type into the address bar the **IP address of your Up2 board** and the port     number 8888, like this http://<your IP address>:8888
-2. You should see the root directory of your Up2 board. Navigate to /home/upsquared/Desktop/Lab Answers/lab-opencv-examples/
-3. There are three sections:
-    * 1_OpenCV_Basics.ipynb 
-    * 2_edge_detection.ipynb  
-    * 3_face_detection.ipynb  
+  - Lab: [Open CV Exercise](https://github.com/SSG-DRD-IOT/lab-opencv-examples/tree/milano-workshop)
+  - Demo: 
 
 * **Feedback, Survey and Conclusion**
 
