@@ -67,7 +67,7 @@ Here are some tools you may require to install on your workstation to help you c
   - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/07-Computer-Vision.pptx)
   - Video: [Introduction to the Movidius Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
   - Video: [Mouser Product Brief on Movidius Neural Computer Stick](https://www.youtube.com/watch?v=gl_iKYr9EKk)
-  - Lab: [Open CV Exercise](https://github.com/SSG-DRD-IOT/lab-opencv-examples/tree/milano-workshop)
+  - Lab: [Open CV Exercises](https://github.com/SSG-DRD-IOT/lab-opencv-examples/tree/milano-workshop)
   - Demo: 
 
 * **Feedback, Survey and Conclusion**
@@ -75,8 +75,7 @@ Here are some tools you may require to install on your workstation to help you c
 ## Hardware Used in this Workshop
 Intel offers scalable hardware solutions at different power, performance and price points. During these labs we will be using two different products that have Intel hardware.
 
-**For the first part of this workshop, we will use the Up2 Board and connect to the Arduino Create online development tool. During the second part of this workshop, we will use the Intel NUC Core i7.**
-
+**For the first part of this workshop, we will use the Up2 Board and connect to the Arduino Create online development tool.**
 
 ### Up<sup>2</sup> Board
 First is the [Up<sup>2</sup> Board](http://www.up-board.org/upsquared/). It features a 40 Pin I/O connector, multiple USB 3.0 ports, double Gigabit Ethernet, HDMI and more other features make it a perfect solution for different domains and products like Robotics, Drone, Machine Vision, Smart Home, Education, Digital Signage, Intelligent Cars, Internet Of Things. The compatibility with Linux, Android, and all the Windows 10 distributions give you great flexibility, scalability and quick time to market.
