@@ -52,12 +52,6 @@ Here are some tools you may require to install on your workstation to help you c
   - Slides - [Industrial Protocols](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/04-Industrial-Protocols.pptx)
   - Lab - [MQTT - Client Publish/Subscribe](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)
   - Lab - [OPC-UA - Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
-
-* **Software Defined Industrial Systems - Automation**
-  - Slides - [Automation and the IIoT](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/05-Automation.pptx)
-  - Lab - [Virtual Sensor](https://github.com/SSG-DRD-IOT/virtual-sensor)
-  - Python Lab - [Building an Automation Service in Python](https://github.com/SSG-DRD-IOT/lab-automation-jupyter/) 
-  - JS Lab - [Building an Automation Service in JavaScript](https://github.com/SSG-DRD-IOT/lab-iot-automation)
   
 * **Internet of Things - Security**
   - Slides: [IoT Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/06-Security-Architecture.pptx) 
@@ -68,7 +62,7 @@ Here are some tools you may require to install on your workstation to help you c
   - Video: [Introduction to the Movidius Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
   - Video: [Mouser Product Brief on Movidius Neural Computer Stick](https://www.youtube.com/watch?v=gl_iKYr9EKk)
   - Lab: [Open CV Exercises](https://github.com/SSG-DRD-IOT/lab-opencv-examples/tree/milano-workshop)
-  - Demo: 
+  - Demo: [Realtime object detection](https://github.com/SSG-DRD-IOT/lab-opencv-examples/tree/milano-workshop/OpenCV_Object_Detection/real_time_object_detection) demo can be ran on UP2 board or any other system with relative setup.
 
 * **Feedback, Survey and Conclusion**
 
@@ -83,5 +77,11 @@ First is the [Up<sup>2</sup> Board](http://www.up-board.org/upsquared/). It feat
 ![](images/up2.png)
 
 ## Additional Material
+* **IDEs**
   - Lab - [Extra Infomration - Setup Alternative IDEs](https://github.com/SSG-DRD-IOT/doc-alternative-IDEs)
-
+  
+* **Automation**
+  - Slides - [Automation and the IIoT](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/05-Automation.pptx)
+  - Lab - [Virtual Sensor](https://github.com/SSG-DRD-IOT/virtual-sensor)
+  - Python Lab - [Building an Automation Service in Python](https://github.com/SSG-DRD-IOT/lab-automation-jupyter/) 
+  - JS Lab - [Building an Automation Service in JavaScript](https://github.com/SSG-DRD-IOT/lab-iot-automation)
