@@ -54,11 +54,11 @@ Here are some tools you may require to install on your workstation to help you c
   - Lab - [OPC-UA - Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
   
 * **Internet of Things - Security**
-  - Slides: [IoT Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/06-Security-Architecture.pptx) 
+  - Slides: [IoT Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/05-Security-Architecture.pptx) 
   - Resource: [Intel EPID Article](https://software.intel.com/en-us/articles/intel-enhanced-privacy-id-epid-security-technology)
 
 * **Internet of Things - Computer Vision**
-  - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/07-Computer-Vision.pptx)
+  - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/06-Computer-Vision.pptx)
   - Video: [Introduction to the Movidius Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
   - Video: [Mouser Product Brief on Movidius Neural Computer Stick](https://www.youtube.com/watch?v=gl_iKYr9EKk)
   - Lab: [Open CV Exercises](https://github.com/SSG-DRD-IOT/lab-opencv-examples/tree/milano-workshop)
@@ -81,7 +81,7 @@ First is the [Up<sup>2</sup> Board](http://www.up-board.org/upsquared/). It feat
   - Lab - [Extra Infomration - Setup Alternative IDEs](https://github.com/SSG-DRD-IOT/doc-alternative-IDEs)
   
 * **Automation**
-  - Slides - [Automation and the IIoT](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/05-Automation.pptx)
+  - Slides - [Automation and the IIoT](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/Automation_Extra.pptx)
   - Lab - [Virtual Sensor](https://github.com/SSG-DRD-IOT/virtual-sensor)
   - Python Lab - [Building an Automation Service in Python](https://github.com/SSG-DRD-IOT/lab-automation-jupyter/) 
   - JS Lab - [Building an Automation Service in JavaScript](https://github.com/SSG-DRD-IOT/lab-iot-automation)
