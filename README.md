@@ -8,7 +8,7 @@ The links below will guide the workshop attendee through the slides, videos and 
 
 The first lab, [Setup the Up<sup>2</sup> Board Hardware](https://software.intel.com/en-us/upsquared-grove-getting-started-guide), is a preperatory lab to setup the hardware and software used in the rest of the labs, and to deploy a sample program to be sure that the attendee has correct understood the workflow to write, compile and deploy an application.
 
-The sensor and protocol labs use the Up2 Board, the sensors from the hardware kit and the Arduino Create environment to prototype a sensor, use the MRAA and UPM libraries to create the interface between the sensor and the Up2 board and then explore several different network protocols common to the IIoT.
+The protocol labs use the Up2 Board, the sensors from the hardware kit and the Arduino Create environment to prototype a sensor, use the MRAA and UPM libraries to create the interface between the sensor and the Up2 board and then explore several different network protocols common to the IIoT.
 
 Next, we will spend some time talking about different types of automation and use a Juypter Notebook running Python to build a rules-based automation service.
 
@@ -26,47 +26,38 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 
 
 ## Workshop Agenda
+* **Intel Strategy and Developer Program for the IIoT**
+  - [Slide Deck](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/Intel-Strategy-and-Dev-Program-for-IIoT.pptx)
+  - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
+
 * **Introduction to Industrial Internet of Things**
   - Slide Deck - [Introduction to Industrial Internet of Things](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/01-Introduction-to-the-Industrial-Internet-of-Things.pptx)
-  - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
   - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
-  - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://github.com/SSG-DRD-IOT/lab-up2-setup),
 
-* **Software Defined Industrial Systems - Sensors**
-  - Slides - [Sensor and Actuators](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/03-Sensors-and-Actuators.pptx)
+* **The UP Squared Development Board**
+  - Slide Deck - [TODO: Get presentation from UP]()
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
+  - Lab - [Setup the Up<sup>2</sup> Board Hardware with Arduino Create](https://github.com/SSG-DRD-IOT/lab-up2-setup),
+  - Lab - [Setup the Up<sup>2</sup> Board Hardware with Intel System Studio Create](https://github.com/SSG-DRD-IOT/lab-up2-setup)
   - Lab - [Sensors and Actuators](https://github.com/SSG-DRD-IOT/toc-sensors)
+
+* **Software Defined Industrial Systems - Workload Consolidation**
+  - Slides - [Workload Consolidation](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/workload-consolidation.pptx)
+  - Demo - IEI Tank Workload Consolidation
 
 * **Software Defined Industrial Systems - Protocols**
   - Slides - [Industrial Protocols](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/04-Industrial-Protocols.pptx)
+  - Video - [Beckhoff Industrial Solutions](https://www.intel.com/content/www/us/en/industrial-automation/products-and-solutions/intel-beckhoff-industrial-solutions-video.html)
   - Lab - [Publish sensor data over MQTT](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)
   - Lab - [OPC-UA Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
   - Lab - [Virtual Sensor](https://github.com/SSG-DRD-IOT/virtual-sensor)
 
-* **Software Defined Industrial Systems - Automation**
-  - Slides - [Automation and the IIoT](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/05-Automation.pptx)
-  - Video - [Beckhoff Industrial Solutions](https://www.intel.com/content/www/us/en/industrial-automation/products-and-solutions/intel-beckhoff-industrial-solutions-video.html)
-  - Lab - Choose either lab [Building an Automation Service in Python](https://github.com/SSG-DRD-IOT/lab-automation-jupyter/) or [Building an Automation Service in JavaScript](https://github.com/SSG-DRD-IOT/lab-iot-automation)
+* **Software Defined Industrial Systems - Security**
+  - Slides - [TODO: Finalize Slides]()
 
-* **Additional Information**
-  - Lab - [Extra Infomration - Setup Alternative IDEs](https://github.com/SSG-DRD-IOT/doc-alternative-IDEs)
-
-* **Computer Vision**
-  - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/07-Computer-Vision.pptx)
-  - Video: [Introduction to the Movidius Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
-  - Video: [Mouser Product Brief on Movidius Neural Computer Stick](https://www.youtube.com/watch?v=gl_iKYr9EKk)
-  - Demo: Movidius Lane Detection, OpenVX Lane Detection
-  - Lab: 
-1. Open your browser on your development computer and type into the address bar the **IP address of your Up2 board** and the port     number 8888, like this http://<your IP address>:8888
-2. You should see the root directory of your Up2 board. Navigate to /home/upsquared/Desktop/Lab Answers/lab-opencv-examples/
-3. There are three sections:
-    * 1_OpenCV_Basics.ipynb 
-    * 2_edge_detection.ipynb  
-    * 3_face_detection.ipynb  
-
-* **Security**
-  - Slides: [Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/06-Security-Architecture%204:2018.pptx) 
-  - Userful article: https://software.intel.com/en-us/articles/intel-enhanced-privacy-id-epid-security-technology
+* **Predictive Analytics and Data Modeling**
+  - Slides - [Predictive Analytics and Data Modeling]()
+  - Lab - [Exercises in Jupyter Lab]()
 
 * **Feedback, Survey and Conclusion**
 
