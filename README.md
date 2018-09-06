@@ -27,37 +27,35 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 
 ## Workshop Agenda
 * **Intel Strategy and Developer Program for the IIoT**
-  - [Slide Deck](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/Intel-Strategy-and-Dev-Program-for-IIoT.pptx)
+  - Slides - [Deck Strategy and Developer Program for the IIoT ](./presentations/Intel-Strategy-and-Dev-Program-for-IIoT.pdf)
   - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
 
 * **Introduction to Industrial Internet of Things**
-  - Slide Deck - [Introduction to Industrial Internet of Things](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/01-Introduction-to-the-Industrial-Internet-of-Things.pptx)
+  - Slide Deck - [Introduction to Industrial Internet of Things](./presentations/Introduction-to-the-Industrial-Internet-of-Things.pdf)
   - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
 
 * **The UP Squared Development Board**
   - Slide Deck - [TODO: Get presentation from UP]()
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
-  - Lab - [Setup the Up<sup>2</sup> Board Hardware with Arduino Create](https://github.com/SSG-DRD-IOT/lab-up2-setup),
-  - Lab - [Setup the Up<sup>2</sup> Board Hardware with Intel System Studio Create](https://github.com/SSG-DRD-IOT/lab-up2-setup)
-  - Lab - [Sensors and Actuators](https://github.com/SSG-DRD-IOT/toc-sensors)
+  - Lab - [Connect the Up2 to the Development Computer](https://github.com/intel-iot-devkit/smart-video-workshop/blob/master/up2-vision-kit/dev_machine_setup.md)
+  - Lab - [Setup the Up<sup>2</sup> Board Hardware with Arduino Create](https://github.com/SSG-DRD-IOT/lab-up2-setup)
 
 * **Software Defined Industrial Systems - Workload Consolidation**
-  - Slides - [Workload Consolidation](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/workload-consolidation.pptx)
+  - Slides - [Workload Consolidation](./presentations/Work Load Consolidation - Virtualization and Real-Time Systems.pdf)
   - Demo - IEI Tank Workload Consolidation
 
 * **Software Defined Industrial Systems - Protocols**
-  - Slides - [Industrial Protocols](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/master/presentations/04-Industrial-Protocols.pptx)
+  - Slides - [Industrial Protocols](./presentations/Industrial-Protocols.pdf)
   - Video - [Beckhoff Industrial Solutions](https://www.intel.com/content/www/us/en/industrial-automation/products-and-solutions/intel-beckhoff-industrial-solutions-video.html)
-  - Lab - [Publish sensor data over MQTT](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)
   - Lab - [OPC-UA Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
-  - Lab - [Virtual Sensor](https://github.com/SSG-DRD-IOT/virtual-sensor)
 
 * **Software Defined Industrial Systems - Security**
   - Slides - [TODO: Finalize Slides]()
 
 * **Predictive Analytics and Data Modeling**
   - Slides - [Predictive Analytics and Data Modeling]()
-  - Lab - [Exercises in Jupyter Lab]()
+  - Slides - [Data Modeling in Python](./presentations/predictive-analytics-bosch-lab.pdf)
+  - Lab - [Exercises in Jupyter Lab](https://github.com/SSG-DRD-IOT/lab-predictive-analytics)
 
 * **Feedback, Survey and Conclusion**
 
