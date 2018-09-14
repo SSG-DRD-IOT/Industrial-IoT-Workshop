@@ -43,7 +43,7 @@ Also if you find errors in the workshop material all of our labs are on Github. 
   - Lab - [Setup the Up<sup>2</sup> Board Hardware with Arduino Create](https://github.com/SSG-DRD-IOT/lab-up2-setup)
 
 * **Software Defined Industrial Systems - Workload Consolidation**
-  - Slides - [Workload Consolidation](./presentations/Work Load Consolidation - Virtualization and Real-Time Systems.pdf)
+  - Slides - [Workload Consolidation](./presentations/WorkLoad-Consolidation-Virtualization-and-Real-Time-Systems.pdf)
   - Demo - IEI Tank Workload Consolidation
 
 * **Software Defined Industrial Systems - Protocols**
