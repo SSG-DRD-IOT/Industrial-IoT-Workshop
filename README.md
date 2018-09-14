@@ -71,3 +71,6 @@ Intel offers scalable hardware solutions at different power, performance and pri
 This kit is available at [Up<sup>2</sup> Board](http://www.up-board.org/upsquared/). It features a 40 Pin I/O connector, multiple USB 3.0 ports, double Gigabit Ethernet, HDMI, Mini PCI-Express and a Movidius Mini PCI-express card which make it a perfect solution for different domains and products like Robotics, Drone, Machine Vision, Smart Home, Education, Digital Signage, Intelligent Cars, Internet Of Things. The compatibility with Linux, Android, and all the Windows 10 distributions give you great flexibility, scalability and quick time to market.
 
 ![](images/kit-contents-overlay.png)
+> #### Disclaimer
+> Intel and the Intel logo are trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries.
+> *Other names and brands may be claimed as the property of others
