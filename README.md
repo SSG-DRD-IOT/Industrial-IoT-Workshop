@@ -68,4 +68,4 @@ Intel offers scalable hardware solutions at different power, performance and pri
 ### Up<sup>2</sup> Board
 First is the [Up<sup>2</sup> Board](http://www.up-board.org/upsquared/). It features a 40 Pin I/O connector, multiple USB 3.0 ports, double Gigabit Ethernet, HDMI and more other features make it a perfect solution for different domains and products like Robotics, Drone, Machine Vision, Smart Home, Education, Digital Signage, Intelligent Cars, Internet Of Things. The compatibility with Linux, Android, and all the Windows 10 distributions give you great flexibility, scalability and quick time to market.
 
-![](images/up2.png)
+![](images/kit-contents-overlay.png)
