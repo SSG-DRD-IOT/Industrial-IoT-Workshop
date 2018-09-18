@@ -1,4 +1,3 @@
-
 # Intel Industrial IoT Workshop Setup Guide
 Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore Industry 4.0 technologies through lectures and hands on labs. By the end of the workshop, you should have a solid understanding of different Industry 4.0 technologies and have some working ideas of how to implement them in your place of business.
 
@@ -35,7 +34,7 @@ Also if you find errors in the workshop material all of our labs are on Github. 
   - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
 
 * **The UP Squared Development Board**
-  - Slide Deck - [Up2 AI Vision Kit Presentation](./presentations/2018-09-Intel-Workship-AI-Edge-UP-Series.pdf)
+  - Slide Deck - [Up2 AI Vision Kit Presentation](./presentations/AI-Edge-UP-Series.pdf)
 
    [Up2 AI Vision Kit Presentation]()
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
