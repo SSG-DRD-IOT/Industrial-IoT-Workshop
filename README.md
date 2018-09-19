@@ -54,7 +54,7 @@ Also if you find errors in the workshop material all of our labs are on Github. 
   - Slides - [Security](./presentations/Intel-Industrial-IoT-workshop-Security.pdf)
 
 * **Predictive Analytics and Data Modeling**
-  - Slides - [Predictive Analytics and Data Modeling](./presentation/Predictive-Analytics-webinar.pdf)
+  - Slides - [Predictive Analytics and Data Modeling](./presentations/Predictive-Analytics-webinar.pdf)
   - Slides - [Data Modeling in Python](./presentations/predictive-analytics-bosch-lab.pdf)
   - Lab - [Exercises in Jupyter Lab](https://github.com/SSG-DRD-IOT/lab-predictive-analytics)
 
