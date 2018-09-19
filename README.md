@@ -17,7 +17,7 @@ The Intel IoT Developer Relations team, hopes that you enjoy this IIoT Workshop.
 
 ## Social Media and Feedback
 
-If you are posting on social media the hashtags for the event are ***IntelIoT*** and **CommercialIoT**.
+If you are posting on social media the hashtags for the event are ***#IntelIoT*** and **#CommercialIoT**.
 
 Feel free to talk to any of the Intel people at this event to leave feedback.
 
@@ -39,7 +39,7 @@ Also if you find errors in the workshop material all of our labs are on Github. 
    [Up2 AI Vision Kit Presentation]()
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
   - Lab - [Connect the Up2 to the Development Computer](https://github.com/intel-iot-devkit/smart-video-workshop/blob/master/up2-vision-kit/dev_machine_setup.md)
-  - Lab - [Setup the Up<sup>2</sup> Board Hardware with Arduino Create](https://github.com/SSG-DRD-IOT/lab-up2-setup)
+  - Lab - [Setup the Up<sup>2</sup> Board Hardware with Arduino Create](https://github.com/SSG-DRD-IOT/lab-up2-setup/tree/ai-vision-kit)
 
 * **Software Defined Industrial Systems - Workload Consolidation**
   - Slides - [Workload Consolidation](./presentations/WorkLoad-Consolidation-Virtualization-and-Real-Time-Systems.pdf)
