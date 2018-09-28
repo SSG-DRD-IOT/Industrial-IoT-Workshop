@@ -37,7 +37,8 @@ Here are some tools you may require to install on your workstation to help you c
   - Slide Deck - [Introduction to Industrial Internet of Things](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/01-Introduction-to-the-Industrial-Internet-of-Things.pptx)
   - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
   - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
-  - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://github.com/SSG-DRD-IOT/lab-up2-setup/tree/milano-workshop),
+  - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://github.com/SSG-DRD-IOT/lab-up2-setup/tree/milano-workshop)
+  - Follow-up Lab: [GPIO Example] (https://github.com/SSG-DRD-IOT/lab-digital-sensors-arduino)
 
 * **Software Defined Industrial Systems - Formalizing Industrial IoT**
   - Slide Deck - [Software Defined Industrial Systems](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/02-Software-Defined-Industrial-Systems.pptx)
@@ -62,7 +63,7 @@ Here are some tools you may require to install on your workstation to help you c
   - Video: [Introduction to the Movidius Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
   - Video: [Mouser Product Brief on Movidius Neural Computer Stick](https://www.youtube.com/watch?v=gl_iKYr9EKk)
   - Lab: [Open CV Exercises](https://github.com/SSG-DRD-IOT/lab-opencv-examples/tree/milano-workshop)
-  - Demo: [Realtime object detection](https://github.com/SSG-DRD-IOT/lab-opencv-examples/tree/milano-workshop/OpenCV_Object_Detection/real_time_object_detection) demo can be ran on UP2 board or any other system with relative setup.
+  - Demo: [Realtime object detection](https://github.com/SSG-DRD-IOT/lab-opencv-examples/tree/milano-workshop/OpenCV_Object_Detection/real_time_object_detection) 
 
 * **Feedback, Survey and Conclusion**
 
