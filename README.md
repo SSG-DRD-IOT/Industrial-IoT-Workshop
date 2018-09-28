@@ -62,8 +62,7 @@ Here are some tools you may require to install on your workstation to help you c
   - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/06-Computer-Vision.pptx)
   - Video: [Introduction to the Movidius Neural Compute Stick](https://www.youtube.com/watch?v=VioTPaYcF98)
   - Video: [Mouser Product Brief on Movidius Neural Computer Stick](https://www.youtube.com/watch?v=gl_iKYr9EKk)
-  - Lab: [Open CV Exercises](https://github.com/SSG-DRD-IOT/lab-opencv-examples/tree/milano-workshop)
-  - Demo: [Realtime object detection](https://github.com/SSG-DRD-IOT/lab-opencv-examples/tree/milano-workshop/OpenCV_Object_Detection/real_time_object_detection) 
+  - Lab & Demos: [Computer Vision Exercises](https://github.com/SSG-DRD-IOT/lab-opencv-examples/tree/milano-workshop)
 
 * **Feedback, Survey and Conclusion**
 
