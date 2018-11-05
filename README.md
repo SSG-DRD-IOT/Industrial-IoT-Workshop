@@ -1,4 +1,6 @@
 
+# Welcome to the Mexico City edition of the Intel Industrial IOT Workshop
+
 # Intel Industrial IoT Workshop Setup Guide
 Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore Industry 4.0 technologies through lectures and hands on labs. By the end of the workshop, you should have a solid understanding of different Industry 4.0 technologies and have some working ideas of how to implement them in your place of business.
 
@@ -38,7 +40,6 @@ Here are some tools you may require to install on your workstation to help you c
   - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
   - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
   - Lab - [Setup the Up<sup>2</sup> Board Hardware](https://github.com/SSG-DRD-IOT/lab-up2-setup/tree/milano-workshop)
-  - Follow-up Lab: [GPIO Example] (https://github.com/SSG-DRD-IOT/lab-digital-sensors-arduino)
 
 * **Software Defined Industrial Systems - Formalizing Industrial IoT**
   - Slide Deck - [Software Defined Industrial Systems](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/02-Software-Defined-Industrial-Systems.pptx)
@@ -47,16 +48,28 @@ Here are some tools you may require to install on your workstation to help you c
 * **Software Defined Industrial Systems - Sensors**
   - Slides - [Sensor and Actuators](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/03-Sensors-and-Actuators.pptx)
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
-  - Lab - [Sensors and Actuators](https://github.com/SSG-DRD-IOT/toc-sensors/tree/milano-workshop)
-
+  - Labs:
+    * [Introduction to the MRAA and UPM libraries](https://github.com/SSG-DRD-IOT/lab-overview-mraa-and-upm-libraries/)
+    * [Digital GPIO Example](https://github.com/SSG-DRD-IOT/lab-digital-sensors-arduino)
+    * [PWM Example](https://github.com/SSG-DRD-IOT/lab-pwm-sensors-arduino)
+    * [I<sup>2</sup>C LCD Example](https://github.com/SSG-DRD-IOT/lab-lcd-arduino)
+    * [Temperature sensors](https://github.com/SSG-DRD-IOT/lab-temperature-humidity-arduino)
+  
 * **Software Defined Industrial Systems - Protocols**
   - Slides - [Industrial Protocols](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/04-Industrial-Protocols.pptx)
-  
-  - Lab - [OPC-UA - Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua/tree/milano-workshop)
+  - Labs:
+     * [MQTT - Client Publish/Subscribe](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)  
+     * [OPC-UA - Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua/tree/milano-workshop)
   
 * **Internet of Things - Security**
   - Slides: [IoT Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/05-Security-Architecture.pptx) 
   - Resource: [Intel EPID Article](https://software.intel.com/en-us/articles/intel-enhanced-privacy-id-epid-security-technology)
+
+* **Automation**
+  - Slides - [Automation and the IIoT](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/Automation_Extra.pptx)
+  - Lab - [Virtual Sensor](https://github.com/SSG-DRD-IOT/virtual-sensor)
+  - Python Lab - [Building an Automation Service in Python](https://github.com/SSG-DRD-IOT/lab-automation-jupyter/) 
+  - JS Lab - [Building an Automation Service in JavaScript](https://github.com/SSG-DRD-IOT/lab-iot-automation)
 
 * **Internet of Things - Computer Vision**
   - Slides: [Computer Vision](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/06-Computer-Vision.pptx)
@@ -80,11 +93,3 @@ First is the [Up<sup>2</sup> Board](http://www.up-board.org/upsquared/). It feat
 * **IDEs**
   - Lab - [Extra Infomration - Setup Alternative IDEs](https://github.com/SSG-DRD-IOT/doc-alternative-IDEs)
   
-* **Automation**
-  - Slides - [Automation and the IIoT](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/Automation_Extra.pptx)
-  - Lab - [Virtual Sensor](https://github.com/SSG-DRD-IOT/virtual-sensor)
-  - Python Lab - [Building an Automation Service in Python](https://github.com/SSG-DRD-IOT/lab-automation-jupyter/) 
-  - JS Lab - [Building an Automation Service in JavaScript](https://github.com/SSG-DRD-IOT/lab-iot-automation)
-  
-* **MQTT Material** 
-  - Lab - [MQTT - Client Publish/Subscribe](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)
