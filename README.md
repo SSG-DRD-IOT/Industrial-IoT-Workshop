@@ -91,5 +91,13 @@ First is the [Up<sup>2</sup> Board](http://www.up-board.org/upsquared/). It feat
 
 ## Additional Material
 * **IDEs**
-  - Lab - [Extra Infomration - Setup Alternative IDEs](https://github.com/SSG-DRD-IOT/doc-alternative-IDEs)
-  
+  - Lab - [Extra Information - Setup Alternative IDEs](https://github.com/SSG-DRD-IOT/doc-alternative-IDEs)
+
+* **Additional Examples - Reference Implementations**
+
+  - Industrial
+    - [Restricted Zone Notifier](https://github.com/intel-iot-devkit/restricted-zone-notifier-cpp)
+    - [Object Size Detector](https://github.com/intel-iot-devkit/object-size-detector-cpp)
+  - Retail
+    - [Store Traffic Monitor](https://github.com/intel-iot-devkit/store-traffic-monitor)
+    - [Shopper Gaze Monitor](https://github.com/intel-iot-devkit/shopper-gaze-monitor-cpp)
