@@ -34,6 +34,9 @@ Here are some tools you may require to install on your workstation to help you c
 
   *username*/*password* for UP2 Board: *upsquared*/*upsquared*
 
+## Before Starting Workshop
+ - [Internet connection setup] (https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/MexicoCity/UP2InternetSetup.md) 
+
 ## Workshop Agenda
 * **Introduction to Industrial Internet of Things**
   - Slide Deck - [Introduction to Industrial Internet of Things](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/01-Introduction-to-the-Industrial-Internet-of-Things.pptx)
