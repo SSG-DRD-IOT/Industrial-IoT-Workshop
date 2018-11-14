@@ -62,7 +62,7 @@ Here are some tools you may require to install on your workstation to help you c
   - Slides - [Industrial Protocols](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/04-Industrial-Protocols.pptx)
   - Labs:
      * [MQTT - Client Publish/Subscribe](https://github.com/SSG-DRD-IOT/lab-protocols-mqtt-arduino/)  
-     * [OPC-UA - Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua/tree/milano-workshop)
+     * [OPC-UA - Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
   
 * **Internet of Things - Security**
   - Slides: [IoT Security](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/milano-workshop/presentations/05-Security-Architecture.pptx) 
