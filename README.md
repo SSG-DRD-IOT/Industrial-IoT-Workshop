@@ -52,7 +52,7 @@ Also if you find errors in the workshop material all of our labs are on Github. 
   - Slides - [Industrial Protocols](./presentations/Industrial-Protocols.pdf)
 
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
-  - Lab - [OPC-UA Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
+  - Lab - [EdgeX Foundry Walkthrough](https://docs.edgexfoundry.org/Ch-Walkthrough.html)
 
 * **Software Defined Industrial Systems - Security**
   - Slides - [Security](./presentations/Intel-Industrial-IoT-workshop-Security.pdf)
