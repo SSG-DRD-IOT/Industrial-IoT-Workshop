@@ -38,7 +38,7 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 * **The UP Squared Development Board**
   - Slide Deck - [Up2 AI Vision Kit Presentation](./presentations/Intel-Workship-AI-Edge-UP-Series-11-2018.pdf)
   - Lab - [Connect the Up2 to the Development Computer](https://github.com/intel-iot-devkit/smart-video-workshop/blob/master/up2-vision-kit/dev_machine_setup.md)
-  - Lab - [Setup the Up<sup>2</sup> Board Hardware with Arduino Create](https://github.com/SSG-DRD-IOT/lab-up2-setup/tree/ai-vision-kit)
+  - Lab - [Run "Object Flaw Detection" Locally and on the Up<sup>2</sup> Board Hardware with Intel System Studio](https://github.com/SSG-DRD-IOT/object-flaw-detector-up2-lab)
 
 * **Software Defined Industrial Systems - Workload Consolidation**
   - Slides - [Workload Consolidation](./presentations/WorkLoad-Consolidation-Virtualization-and-Real-Time-Systems.pdf)
