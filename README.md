@@ -46,10 +46,11 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 * **Software Defined Industrial Systems - Workload Consolidation**
   - Slides - [Workload Consolidation](./presentations/WorkLoad-Consolidation-Virtualization-and-Real-Time-Systems.pdf)
   - Demo - IEI Tank Workload Consolidation
+  - Video - [Beckhoff Industrial Solutions](https://www.intel.co.uk/content/www/uk/en/industrial-automation/products-and-solutions/intel-beckhoff-industrial-solutions-video.html)
 
 * **Software Defined Industrial Systems - Protocols**
   - Slides - [Industrial Protocols](./presentations/Industrial-Protocols.pdf)
-  - Video - [Beckhoff Industrial Solutions](https://www.intel.com/content/www/us/en/industrial-automation/products-and-solutions/intel-beckhoff-industrial-solutions-video.html)
+
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
   - Lab - [OPC-UA Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
 
