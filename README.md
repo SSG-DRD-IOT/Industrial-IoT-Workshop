@@ -3,17 +3,20 @@
 # Intel Industrial IoT Workshop Setup Guide
 Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore Industry 4.0 technologies through lectures and hands on labs. By the end of the workshop, you should have a solid understanding of different Industry 4.0 technologies and have some working ideas of how to implement them in your place of business.
 
-## How Do I Use the Lab Material
+Today you will learn about:
+- Intel’s Industrial IoT Strategy
+- The Aaeon UP Squared Board and Developer tools 
+- The AI Solutions from IEI
+- Intel’s workload consolidation strategy 
+- Protocols and Sensors in Industrial IoT 
+- Intel powered security for Industrial IoT 
+
+You will also see demos around workload consolidation and have a chance to get hands on with some of Intel’s Industrial reference implementations and EdgeX Foundry – an open source fog architecture for Industrial IoT.   
+
 
 The links below will guide the workshop attendee through the slides, videos and labs in the Intel Industrial IoT Workshop.
 
-The first lab, [Setup the Up<sup>2</sup> Board Hardware](https://software.intel.com/en-us/upsquared-grove-getting-started-guide), is a preparatory lab to setup the hardware and software used in the rest of the labs, and to deploy a sample program to be sure that the attendee has correct understood the workflow to write, compile and deploy an application.
 
-The protocol labs use the Up2 Board, the sensors from the hardware kit and the Arduino Create environment to prototype a sensor, use the MRAA and UPM libraries to create the interface between the sensor and the Up2 board and then explore several different network protocols common to the IIoT.
-
-Next, we will spend some time talking about different types of automation and use a Juypter Notebook running Python to build a rules-based automation service.
-
-Lastly, we will look at the smart video field, where software and hardware are merging to produce new intelligent video systems.
 
 The Intel IoT Developer Relations team, hopes that you enjoy this IIoT Workshop.
 
