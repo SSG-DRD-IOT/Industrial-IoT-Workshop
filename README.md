@@ -36,10 +36,7 @@ Also if you find errors in the workshop material all of our labs are on Github. 
   - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
 
 * **The UP Squared Development Board**
-  - Slide Deck - [Up2 AI Vision Kit Presentation](./presentations/AI-Edge-UP-Series.pdf)
-
-   [Up2 AI Vision Kit Presentation]()
-  - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
+  - Slide Deck - [Up2 AI Vision Kit Presentation](./presentations/2018-09 Intel Workship AI Edge-UP Series.pdf)
   - Lab - [Connect the Up2 to the Development Computer](https://github.com/intel-iot-devkit/smart-video-workshop/blob/master/up2-vision-kit/dev_machine_setup.md)
   - Lab - [Setup the Up<sup>2</sup> Board Hardware with Arduino Create](https://github.com/SSG-DRD-IOT/lab-up2-setup/tree/ai-vision-kit)
 
@@ -50,6 +47,7 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 * **Software Defined Industrial Systems - Protocols**
   - Slides - [Industrial Protocols](./presentations/Industrial-Protocols.pdf)
   - Video - [Beckhoff Industrial Solutions](https://www.intel.com/content/www/us/en/industrial-automation/products-and-solutions/intel-beckhoff-industrial-solutions-video.html)
+  - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
   - Lab - [OPC-UA Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
 
 * **Software Defined Industrial Systems - Security**
