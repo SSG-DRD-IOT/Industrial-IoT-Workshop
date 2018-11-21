@@ -55,7 +55,7 @@ Also if you find errors in the workshop material all of our labs are on Github. 
   - Slides - [Industrial Protocols](./presentations/Industrial-Protocols.pdf)
 
   - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
-  - Lab - [EdgeX Foundry Walkthrough](https://docs.edgexfoundry.org/Ch-Walkthrough.html)
+  - Lab - [EdgeX Foundry Walkthrough](https://github.com/SSG-DRD-IOT/lab-edgex-industrial)
 
 * **Software Defined Industrial Systems - Security**
   - Slides - [Security](./presentations/Intel-Industrial-IoT-workshop-Security.pdf)
