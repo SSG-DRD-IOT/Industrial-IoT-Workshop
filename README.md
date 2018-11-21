@@ -60,9 +60,8 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 * **Software Defined Industrial Systems - Security**
   - Slides - [Security](./presentations/Intel-Industrial-IoT-workshop-Security.pdf)
 
-* **Predictive Analytics and Data Modeling**
-  - Slides - [Predictive Analytics and Data Modeling](./presentations/Predictive-Analytics-webinar.pdf)
-  - Lab - [Exercises in Jupyter Lab](https://github.com/SSG-DRD-IOT/lab-predictive-analytics)
+* **Reference Implementations**
+  - Self Guided Lab - [Reference Implementations](https://github.com/SSG-DRD-IOT/lab-industrial-reference-implementations)
 
 * **Feedback, Survey and Conclusion**
 
