@@ -35,7 +35,7 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 
 * **Introduction to Industrial Internet of Things & Intel Developer Program**
   - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
-  - Slide Deck - [Introduction to Industrial Internet of Things](./presentations/Introduction-to-the-Industrial-Internet-of-Things.pdf)
+  - Slide Deck - [Introduction to Industrial Internet of Things](./presentations/Introduction-to-IIoT-and-Intel.pdf)
   - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
 
 * **The UP Squared Development Board**
