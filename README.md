@@ -30,11 +30,11 @@ Also if you find errors in the workshop material all of our labs are on Github. 
 
 
 ## Workshop Agenda
-* **Intel Strategy and Developer Program for the IIoT**
-  - Slides - [Deck Strategy and Developer Program for the IIoT ](./presentations/Intel-Strategy-and-Dev-Program-for-IIoT.pdf)
-  - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
 
-* **Introduction to Industrial Internet of Things**
+  
+
+* **Introduction to Industrial Internet of Things & Intel Developer Program**
+  - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
   - Slide Deck - [Introduction to Industrial Internet of Things](./presentations/Introduction-to-the-Industrial-Internet-of-Things.pdf)
   - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
 
