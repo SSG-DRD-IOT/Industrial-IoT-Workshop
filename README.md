@@ -1,74 +1,122 @@
-# Intel Industrial IoT Workshop Setup Guide
+# Intel Industrial IoT Workshop
+
 Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore Industry 4.0 technologies through lectures and hands on labs. By the end of the workshop, you should have a solid understanding of different Industry 4.0 technologies and have some working ideas of how to implement them in your place of business.
 
 ## How Do I Use the Lab Material
 
 The links below will guide the workshop attendee through the slides, videos and labs in the Intel Industrial IoT Workshop.
 
-The first lab, [Setup the Up<sup>2</sup> Board Hardware](https://software.intel.com/en-us/upsquared-grove-getting-started-guide), is a preparatory lab to setup the hardware and software used in the rest of the labs, and to deploy a sample program to be sure that the attendee has correct understood the workflow to write, compile and deploy an application.
+## Schedule - Day 1
 
-The protocol labs use the Up2 Board, the sensors from the hardware kit and the Arduino Create environment to prototype a sensor, use the MRAA and UPM libraries to create the interface between the sensor and the Up2 board and then explore several different network protocols common to the IIoT.
-
-Next, we will spend some time talking about different types of automation and use a Juypter Notebook running Python to build a rules-based automation service.
-
-Lastly, we will look at the smart video field, where software and hardware are merging to produce new intelligent video systems.
-
-The Intel IoT Developer Relations team, hopes that you enjoy this IIoT Workshop.
-
-## Social Media and Feedback
-
-If you are posting on social media the hashtags for the event are ***#IntelIoT*** and **#CommercialIoT**.
-
-Feel free to talk to any of the Intel people at this event to leave feedback.
-
-Also if you find errors in the workshop material all of our labs are on Github. feel free to fork any repository and send us a pull request. After all, that's why we are on Github.
-
-
-## Workshop Agenda
-* **Intel Strategy and Developer Program for the IIoT**
-  - Slides - [Deck Strategy and Developer Program for the IIoT ](./presentations/Intel-Strategy-and-Dev-Program-for-IIoT.pdf)
-  - Video - [Industrial Applications](https://www.intel.com/content/www/us/en/industrial-automation/overview.html)
-
-* **Introduction to Industrial Internet of Things**
-  - Slide Deck - [Introduction to Industrial Internet of Things](./presentations/Introduction-to-the-Industrial-Internet-of-Things.pdf)
-  - Video - [A New Industrial Revolution through the Internet of Things](https://www.intel.com/content/www/us/en/industrial-automation/industrial-vision-video.html)
-
-* **The UP Squared Development Board**
-  - Slide Deck - [Up2 AI Vision Kit Presentation](./presentations/AI-Edge-UP-Series.pdf)
-
-   [Up2 AI Vision Kit Presentation]()
-  - Video - [Input and Output with MRAA](https://www.youtube.com/watch?v=hY4HudLuvEM)
-  - Lab - [Connect the Up2 to the Development Computer](https://github.com/intel-iot-devkit/smart-video-workshop/blob/master/up2-vision-kit/dev_machine_setup.md)
-  - Lab - [Setup the Up<sup>2</sup> Board Hardware with Arduino Create](https://github.com/SSG-DRD-IOT/lab-up2-setup/tree/ai-vision-kit)
-
-* **Software Defined Industrial Systems - Workload Consolidation**
-  - Slides - [Workload Consolidation](./presentations/WorkLoad-Consolidation-Virtualization-and-Real-Time-Systems.pdf)
-  - Demo - IEI Tank Workload Consolidation
-
-* **Software Defined Industrial Systems - Protocols**
-  - Slides - [Industrial Protocols](./presentations/Industrial-Protocols.pdf)
-  - Video - [Beckhoff Industrial Solutions](https://www.intel.com/content/www/us/en/industrial-automation/products-and-solutions/intel-beckhoff-industrial-solutions-video.html)
-  - Lab - [OPC-UA Server and Client](https://github.com/SSG-DRD-IOT/lab-sensors-opc-ua)
-
-* **Software Defined Industrial Systems - Security**
-  - Slides - [Security](./presentations/Intel-Industrial-IoT-workshop-Security.pdf)
-
-* **Predictive Analytics and Data Modeling**
-  - Slides - [Predictive Analytics and Data Modeling](./presentations/Predictive-Analytics-webinar.pdf)
-  - Lab - [Exercises in Jupyter Lab](https://github.com/SSG-DRD-IOT/lab-predictive-analytics)
-
-* **Feedback, Survey and Conclusion**
-
-## Hardware Used in this Workshop
-Intel offers scalable hardware solutions at different power, performance and price points. During these labs we will be using two different products that have Intel hardware.
-
-**For the first part of this workshop, we will use the Up2 Board and connect to the Arduino Create online development tool. During the second part of this workshop, we will use the Intel NUC Core i7.**
+|                   | April 30th                                         | |
+| ----------------- | -------------------------------------------------- |-|
+| **8:00-9:00am**   |Doors Open for Badge Pickup                        | |
+| **9:00-9:30am**   |Presentation: Intel Developer Program for Industrial Automation |[Slides](./presentations/01-Intel-Developer-Program-and-Industrial-IoT-Strategy.pdf) |
+| **9:30-9:45am**  |Demo: Industrial Reference Impementation on IEI Tank|[Slides](./presentations/Intel-Automation.pdf)|
+| **9:45-10:15am** |Presentation: Introduction to Edge Insights Software|[Slides]()**TODO**|
+| **10:15-10:30am** |Demo: Anomaly Detection on EIS                     ||
+| **10:30-11:30am** |Lab: EIS Intro and Sample Applications             |[Lab](https://software.intel.com/en-us/node/812430)|
+| **11:30-12:30pm** |Lab: Create Industrial Solution with EIS           | [Lab]()**TODO**|
+| **12:30-1:30pm**  | Lunch                                              |
+|**1:30-2:00pm**|Presentation & Demo: Hardware Acceleration with HDDL-R|[Slides]()**TODO**|
+|**2:00pm-2:30pm**|Lab: Offloading Workloads to Accelerators in DevCloud|[Lab]()**TODO**|
+| **2:30-3:00pm**   | Presentation: Industrial Protocols                               |[Slides](./presentations/05-Industrial-Protocols.pdf) |
+| **3:00-3:30pm**   | Presentation: Real-Time Networking and Time Sensitive Networking |[Slides](./presentations/04-Time-Sensitive-Networking.pdf)|
+| **3:30-4:00pm**   | Presentation: Virtualization |[Slides](./presentations/02-Virtualization.pdf)|
+| **4:00-5:00pm**   | Lab: Explore Industrail Reference Implementations |[Lab](https://software.intel.com/en-us/iot/reference-implementations)|
 
 
-### Up<sup>2</sup> Ai Vision Kit
-This kit is available at [Up<sup>2</sup> Board](http://www.up-board.org/upsquared/). It features a 40 Pin I/O connector, multiple USB 3.0 ports, double Gigabit Ethernet, HDMI, Mini PCI-Express and a Movidius Mini PCI-express card which make it a perfect solution for different domains and products like Robotics, Drone, Machine Vision, Smart Home, Education, Digital Signage, Intelligent Cars, Internet Of Things. The compatibility with Linux, Android, and all the Windows 10 distributions give you great flexibility, scalability and quick time to market.
+## Workshop Presentations, Labs and Content
 
-![](images/kit-contents-overlay.png)
-> #### Disclaimer
-> Intel and the Intel logo are trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries.
-> *Other names and brands may be claimed as the property of others
+#### April 30th - Day 1
+-   **Intel Strategy and Developer Program for Industrial Workload Consolidation**
+    -   [Slides](./presentations/01-Intel-Developer-Program-and-Industrial-IoT-Strategy.pdf)
+
+-   **Case Studies for Real-Time Systems in Industry**
+    -  Slides - [Automation at Intel](./presentations/Intel-Automation.pdf)
+
+-   **Virtualization**
+    -   [Slides](./presentations/02-Virtualization.pdf)
+
+-   **Real-Time Operating Systems**
+    -   [Slides](./presentations/03-Real-Time-Systems.pdf)
+    -   Lab - [Real-Time Operating System](https://github.com/SSG-DRD-IOT/real-time-lab)
+
+-   **Real-Time Networking and Time Sensitive Networking**
+    -   [Slides](./presentations/04-Time-Sensitive-Networking.pdf)
+    -  Lab - [Without Time-Aware Traffic Scheduling or LaunchTime](./tsn_lab/README.md)
+    -  Lab - [Time-Aware Traffic Scheduling Enabled](./tsn_lab/README.md)
+    -  Lab - [Time-Aware Traffic Scheduling and LaunchTime Enabled](./tsn_lab/README.md)
+
+-   Industrial Protocols
+    -   [Slides](./presentations/05-Industrial-Protocols.pdf)
+    -   Lab - [OPC UA PubSub over TSN With Time-Aware Scheduling and LaunchTime Enabled](./tsn_lab/opc_ua.md)
+    
+-   Introduction to the Insights Platform
+    -   [Slides](./presentations/insights%20stack%20presentation.pdf)
+   
+
+#### Day 1 - Extra Resources
+- Introduction
+  - [Intel Industrial Applications Webpage](https://www.intel.com/content/www/us/en/internet-of-things/industrial-iot/overview.html)
+- Virtualization
+  -  Videos
+      -   [Intel® Virtualization Technology](https://www.youtube.com/watch?v=gqZrarZiHp8&t=22s)
+      -   [Intel® VMDq(Tm) Demonstration - Live](https://www.youtube.com/watch?v=lOBOEcBSSkQ)
+      -   [Intel(r) SR-IOV(TM) Explanation](https://www.youtube.com/watch?v=hRHsk8Nycdg)
+      -   [Intel® Virtualization Technology for Connectivity (VT-c) - KMedia Channel](https://www.youtube.com/watch?v=Y-EaX3BBzSc&t=3s)
+  -   Whitepapers
+      -   [Intel® VMDq Technology: An Overview](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/vmdq-technology-paper.pdf)
+-   Resources
+    -   [Virtual Machine Device Queues](https://www.intel.com/content/www/us/en/ethernet-products/converged-network-adapters/io-acceleration-technology-vmdq.html)
+    - [Intel(r) Ethernet Controller i210 FAQ](https://www.intel.com/content/dam/www/public/us/en/documents/faqs/ethernet-controller-i210-i211-faq.pdf)
+    - [Components of Linux Traffic Control](http://tldp.org/HOWTO/Traffic-Control-HOWTO/components.html)
+## Schedule - Day 2
+
+|                   | May 1st                                            |   |
+| ----------------- | -------------------------------------------------- |---|
+| **8:30-9:00am**   | Doors Open for Badge Pickup                        |   |
+| **9:00-9:30am**   | Smart Video/Computer Vision Tools Overview         |  [Slides](https://github.com/intel-iot-devkit/smart-video-workshop/blob/master/presentations/01-Introduction-to-Intel-Smart-Video-Tools.pdf)  |
+| **9:30-10:15am**  | Training a Deep Learning Model                     | [Slides](https://github.com/intel-iot-devkit/smart-video-workshop/presentations/DL_training_model.pdf) [Labs](https://github.com/intel-iot-devkit/smart-video-workshop/tree/master/dl-model-training)  |
+| **10:15-11:00am** | Object Detection Presentation                      |  [Slides](https://github.com/intel-iot-devkit/smart-video-workshop/blob/master/presentations/02-03_Basic-End-to-End-Object-Detection-Example.pdf) Labs on Devcloud  |
+| **11:00-11:45am** | Object Detection DevCloud Demo                     |   |
+| **11:45-12:15pm** | Hardware Presentation from Aaeon                   | [Slides](AAEON_AI_Edge_Intel_Workshop_20190404.pdf)  |
+| **12:45-1:15pm**  | Lunch                                              |   |
+| **1:15-2:15pm**   | DevCloud Labs                                      |  [Slides](./presentation/IoT-DevCloud-Intro.pdf) [Labs](https://github.com/intel-iot-devkit/iot-devcloud/tree/master/Tutorials) [Labs](https://github.com/intel-iot-devkit/iot-devcloud/tree/master/python) |
+|                   |- Classification                                    |   |
+|                   |- Object Detection                                  |   |
+|                   |- Heterogeneous Compute                             |   |
+|                   |- Style Transfer                                    |   |
+|                   |- Saftey Gear Detection                             |   |
+| **2:15-3:00pm**   | Introduction to the Intel(r) Insights(TM) Platform |   |
+| **3:00-3:15pm**   | Intel(r) Insights(TM) Platform Lab                 |   |
+| **3:15-4:00pm**   | Questions and Closing                              |   |
+
+#### May 1st - Day 2
+
+-   **Introduction to Intel Smart Video Tools**
+    -   Slides - [Introduction to Smart Video Tools](https://github.com/intel-iot-devkit/smart-video-workshop/blob/master/presentations/01-Introduction-to-Intel-Smart-Video-Tools.pdf)
+
+-   **Training a Deep Learning Model**
+    - Slides - [Training a Deep Learning Model](https://github.com/intel-iot-devkit/smart-video-workshop/presentations/DL_training_model.pdf)
+    - Lab - [Deep Learning Model Training](https://github.com/intel-iot-devkit/smart-video-workshop/tree/master/dl-model-training)
+
+-   **Object Detection Inference Example**
+    -   Slides - [Object Detection Example](https://github.com/intel-iot-devkit/smart-video-workshop/blob/master/presentations/02-03_Basic-End-to-End-Object-Detection-Example.pdf)
+    -   Lab - [Object Detection Example](placeholder)
+
+-   **Hardware Presentation from Aaeon**
+    - [Slides](placeholder)
+
+-   **Introduction to IoT DevCloud**
+    -   Slides - [Introduction to the IoT DevCloud](./presentation/IoT-DevCloud-Intro.pdf)
+    -   Lab - [Lab: Tutorials (Classification, Object Detection, Style-Transfer)](https://github.com/intel-iot-devkit/iot-devcloud/tree/master/Tutorials)
+    -   Lab: [Object Detection, Safety Gear Detection](https://github.com/intel-iot-devkit/iot-devcloud/tree/master/python)
+
+<!--
+  * **Hardware Heterogeneity**
+    - Lab - [Hardware Heterogeneity](https://github.com/intel-iot-devkit/smart-video-workshop/hardware-heterogeneity/README.md)
+
+  * **HW Acceleration with Intel® Movidius™ Neural Compute Stick**
+    - Lab - [HW Acceleration with Intel® Movidius™ Neural Compute Stick](https://github.com/intel-iot-devkit/smart-video-workshop/HW-Acceleration-with-Movidious-NCS/README.md) -->
+
