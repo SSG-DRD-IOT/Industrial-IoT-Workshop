@@ -21,10 +21,10 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **12:30-1:30pm**  | Lunch                                              |
 |**1:30-2:00pm**|Presentation & Demo: Hardware Acceleration with HDDL-R|[Slides]()**TODO**|
 |**2:00pm-2:30pm**|Lab: Offloading Workloads to Accelerators in DevCloud|[Lab]()**TODO**|
-| **2:30-3:00pm**   | Presentation: EIS Architecture Overview          |[Slides](./presentations/05-Industrial-Protocols.pdf)**TODO** |
+| **2:30-3:00pm**   | Presentation: EIS Architecture Overview          |[Slides]()**TODO** |
+| **3:00-3:30pm**   | Demo: Factory Control Application on EIS ||
 ||Presentation: EIS Events and Monitoring|
 ||Demo: EIS Events and Monitoring|
-| **3:00-3:30pm**   | Demo: Multi Camera Analytics ||
 | **3:30-4:00pm**   | Presentation: Use Cases for EIS and Industrial IoT |[Slides]()**TODO**|
 | **4:00-5:00pm**   | Lab: Explore Industrail Reference Implementations |[Lab](https://software.intel.com/en-us/iot/reference-implementations)|
 
