@@ -1,4 +1,4 @@
-# Intel Industrial IoT Workshop
+﻿# Intel Industrial IoT Workshop
 
 Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore Industry 4.0 technologies through lectures and hands on labs. By the end of the workshop, you should have a solid understanding of different Industry 4.0 technologies and have some working ideas of how to implement them in your place of business.
 
@@ -13,7 +13,7 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **8:00-9:00am**   |Doors Open for Badge Pickup                        | |
 | **9:00-9:30am**   |Presentation: Intel Developer Program for Industrial Automation |[Slides](./presentations/01-Intel-Developer-Program-and-Industrial-IoT-Strategy.pdf) |
 | **9:30-9:45am**  |Demo: Industrial Reference Impementation on IEI Tank - Restricted Zone Notifier|[Demo](https://software.intel.com/en-us/iot/reference-implementations/restricted-zone-notifier)|
-| **9:45-10:15am** |Presentation: Introduction to Edge Insights Software|[Slides]()**TODO**|
+| **9:45-10:15am** |Presentation: Introduction to Edge Insights Software|[Slides](./presentations/Introduction-Industrial-Edge-Insights-Platform.pdf)|
 | **10:15-10:30am** |Demo: PCB Anomaly Detection on EIS                     ||
 |**10:30-10:45am** |Presentation: Installing EIS |[Slides]()**TODO**|
 | **10:30-11:30am** |Lab: EIS Intro and Sample Applications             |[Lab](https://software.intel.com/en-us/node/812430)|
