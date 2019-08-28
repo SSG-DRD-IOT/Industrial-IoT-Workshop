@@ -24,9 +24,9 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **2:00pm-2:30pm** | Lab: Offloading Workloads to Accelerators in DevCloud                           | [Lab](https://access.colfaxresearch.com/)                                                                                 |
 | **2:30-3:00pm**   | Presentation: EIS Architecture, Monitoring and Visualization                    | [Slides]()**TODO**                                                                              |
 | **3:00-3:30pm**   | Lab: Time Series Data                                                           | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-timeseries/blob/master/README.md)                  |
-|                   | Demo: EIS Events and Monitoring                                                 |
-| **3:30-4:00pm**   | Presentation: Use Cases for EIS and Industrial IoT                              | [Slides]()**TODO**                                                                              |
-| **4:00-5:00pm**   | Lab: Explore Industrail Reference Implementations                               | [Lab](https://software.intel.com/en-us/iot/reference-implementations)                           |
+| **3:30-4:00**                  | Presentation: EIS Events and Monitoring                                                 |
+| **4:00-4:30pm**   | Presentation: Use Cases for EIS and Industrial IoT                              | [Slides]()**TODO**                                                                              |
+| **4:30-5:00pm**   | Lab: Explore Industrail Reference Implementations                               | [Lab](https://software.intel.com/en-us/iot/reference-implementations)                           |
 
 #### Extra Resources
 
