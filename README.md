@@ -16,11 +16,12 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **9:45-10:15am**  | Presentation: Introduction to Edge Insights Software                            | [Slides](./presentations/Introduction-Industrial-Edge-Insights-Platform.pdf)                    |
 | **10:15-10:30am** | Demo: PCB Anomaly Detection on EIS                                              |                                                                                                 |
 | **10:30-10:45am** | Presentation: Installing EIS                                                    | [Slides]()**TODO**                                                                              |
-| **10:30-11:30am** | Lab: EIS Intro and Sample Applications                                          | [Lab](https://software.intel.com/en-us/node/812430)                                             |
-| **11:30-12:30pm** | Lab: Create Industrial Solution with EIS                                        | [Lab]()**TODO**                                                                                 |
+| **10:30-11:30am** | Lab: EIS Intro and Sample Applications                                          | [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/master/explore_IEdgeInsights.md)  
+| **11:30-12:00**| Lab: Converting Codebase into EIS| [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/master/understanding_RI_to_EIS_conversion.md)
+| **12:00-12:30pm** | Lab: Deploy Industrial Solution with EIS                                        | [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/master/lab_restricted_zone_notifier.md)                                                                                |
 | **12:30-1:30pm**  | Lunch                                                                           |
 | **1:30-2:00pm**   | Presentation & Demo: Hardware Acceleration with HDDL-R                          | [Slides]()**TODO**                                                                              |
-| **2:00pm-2:30pm** | Lab: Offloading Workloads to Accelerators in DevCloud                           | [Lab]()**TODO**                                                                                 |
+| **2:00pm-2:30pm** | Lab: Offloading Workloads to Accelerators in DevCloud                           | [Lab](https://access.colfaxresearch.com/)                                                                                 |
 | **2:30-3:00pm**   | Presentation: EIS Architecture, Monitoring and Visualization                    | [Slides]()**TODO**                                                                              |
 | **3:00-3:30pm**   | Lab: Time Series Data                                                           | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-timeseries/blob/master/README.md)                  |
 |                   | Demo: EIS Events and Monitoring                                                 |
