@@ -22,9 +22,9 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **1:30-2:00pm**   | Presentation & Demo: Hardware Acceleration with HDDL-R                          | [Slides](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/SMG-Techconnect/presentations/HDDL_Intro.pdf)                                                                               |
 | **2:00pm-2:30pm** | Lab: Offloading Workloads to Accelerators in DevCloud                           | [Lab](https://access.colfaxresearch.com/)                                                                                 |
 | **2:30-3:00pm**   | Presentation: EIS Architecture, Monitoring and Visualization                    | [Slides](https://github.com/SSG-DRD-IOT/lab-eis-timeseries/blob/master/README.md)                                                                             |
-| **3:00-3:30pm**   | Lab: Time Series Data                                                           | [Lab 1](https://github.com/SSG-DRD-IOT/lab-eis-timeseries/blob/master/README.md) [Lab 2](https://github.com/SSG-DRD-IOT/lab-eis-chronograf/blob/master/README.md)                  |
-| **3:30-4:00**                  | Presentation: EIS Events and Monitoring                |                                                                           
-| **4:00-5:00pm**   | Lab: Explore Industrail Reference Implementations                               | [Lab](https://software.intel.com/en-us/iot/reference-implementations)                           |
+| **3:00-3:30pm**   | Lab: Time Series Data                                                           | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-timeseries/blob/master/README.md) |
+| **3:30-4:00pm**   | Lab: Building Dashboard with Chronograf      | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-chronograf/blob/master/README.md)    
+| **4:00-5:00pm**   | Lab: Explore Industrail Reference Implementations and DevCloud                              | [Lab](https://software.intel.com/en-us/iot/reference-implementations)                           |
 
 #### Extra Resources
 
