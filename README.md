@@ -11,9 +11,8 @@ The links below will guide the workshop attendee through the slides, videos and 
 |                   | April 30th                                                                      |                                                                                                 |
 | ----------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | **8:00-9:00am**   | Doors Open for Badge Pickup                                                     |                                                                                                 |
-| **9:00-9:30am**   | Presentation: Intel Developer Program for Industrial Automation                 | [Slides](./presentations/EIS-Intro.pdf)            |
-| **9:30-9:45am**   | Demo: Industrial Reference Impementation on IEI Tank - Restricted Zone Notifier | [Demo](https://software.intel.com/en-us/iot/reference-implementations/restricted-zone-notifier) |
-| **9:45-10:15am**  | Presentation: Introduction to Edge Insights Software                            | [Slides](./presentations/Introduction-Industrial-Edge-Insights-Platform.pdf)                    |
+| **9:00-9:45am**   | Presentation: Introduction to Intel Edge Insights Softrware                 | [Slides](./presentations/EIS-Intro.pdf)            |
+| **9:45-10:15am**   | Demo: Industrial Reference Impementation on IEI Tank - Restricted Zone Notifier | [Demo](https://software.intel.com/en-us/iot/reference-implementations/restricted-zone-notifier) |                  |
 | **10:15-10:30am** | Demo: PCB Anomaly Detection on EIS                                              |                                                                                                 |
 | **10:30-10:45am** | Presentation: Installing EIS                                                    | [Slides](./presentations/Installing_EIS.pdf)                                                                              |
 | **10:30-11:30am** | Lab: EIS Intro and Sample Applications                                          | [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/master/explore_IEdgeInsights.md)  
@@ -23,9 +22,9 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **1:30-2:00pm**   | Presentation & Demo: Hardware Acceleration with HDDL-R                          | [Slides](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/SMG-Techconnect/presentations/HDDL_Intro.pdf)                                                                               |
 | **2:00pm-2:30pm** | Lab: Offloading Workloads to Accelerators in DevCloud                           | [Lab](https://access.colfaxresearch.com/)                                                                                 |
 | **2:30-3:00pm**   | Presentation: EIS Architecture, Monitoring and Visualization                    | [Slides](https://github.com/SSG-DRD-IOT/lab-eis-timeseries/blob/master/README.md)                                                                             |
-| **3:00-3:30pm**   | Lab: Time Series Data                                                           | [Lab 1](https://github.com/SSG-DRD-IOT/lab-eis-timeseries/blob/master/README.md) [Lab 2](https://github.com/SSG-DRD-IOT/lab-eis-chronograf/blob/master/README.md)                  |
-| **3:30-4:00**                  | Presentation: EIS Events and Monitoring                |                                                                           
-| **4:00-5:00pm**   | Lab: Explore Industrail Reference Implementations                               | [Lab](https://software.intel.com/en-us/iot/reference-implementations)                           |
+| **3:00-3:30pm**   | Lab: Time Series Data                                                           | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-timeseries/blob/master/README.md) |
+| **3:30-4:00pm**   | Lab: Building Dashboard with Chronograf      | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-chronograf/blob/master/README.md)    
+| **4:00-5:00pm**   | Lab: Explore Industrail Reference Implementations and DevCloud                              | [Lab](https://software.intel.com/en-us/iot/reference-implementations)                           |
 
 #### Extra Resources
 
