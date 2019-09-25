@@ -11,7 +11,7 @@ The links below will guide the workshop attendee through the slides, videos and 
 |                   | Oct 2nd                                                                      |                                                                                                 |
 | ----------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | **8:00-9:00am**   | Doors Open for Badge Pickup                                                     |                                                                                                 |
-| **9:00-9:45am**   | Presentation: Introduction to Intel Edge Insights Softrware                 | [Slides](./presentations/EIS-Intro.pdf)            |
+| **9:00-9:45am**   | Presentation: Introduction to Intel Edge Insights Software                 | [Slides](./presentations/EIS-Intro.pdf)            |
 | **9:45-10:15am**   | Demo: Industrial Reference Impementation on IEI Tank - Restricted Zone Notifier | [Demo](https://software.intel.com/en-us/iot/reference-implementations/restricted-zone-notifier) |                  |
 | **10:15-10:30am** | Demo: PCB Anomaly Detection on EIS                                              |                                                                                                 |
 | **10:30-10:45am** | Presentation: Installing EIS                                                    | [Slides](./presentations/Installing_EIS.pdf)                                                                              |
