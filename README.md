@@ -14,7 +14,7 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **9:00-9:45am**   | Presentation: Introduction to Intel Edge Insights Software                 | [Slides](./presentations/EIS-Intro.pdf)            |
 | **9:45-10:15am**   | Demo: Industrial Reference Impementation on IEI Tank - Restricted Zone Notifier | [Demo](https://software.intel.com/en-us/iot/reference-implementations/restricted-zone-notifier) |                  |
 | **10:15-10:30am** | Demo: PCB Anomaly Detection on EIS                                              |                                                                                                 |
-| **10:30-10:45am** | Presentation: Installing EIS                                                    | [Slides](./presentations/Installing_EIS.pdf)                                                                              |
+| **10:30-10:45am** | Break                                                    |                                                                             |
 | **10:45-11:30am**   | Presentation: EIS Architecture                    | [Slides](./presentations/EIS_Architecture.pdf)  |
 | **11:30-12:00pm** | Lab: EIS Intro and Sample Applications                                          | [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/master/explore_IEdgeInsights.md)  
 | **12:00-12:30**| Lab: Converting Codebase into EIS| [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/master/understanding_ri_to_eis_conversion.md)
