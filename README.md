@@ -8,7 +8,7 @@ The links below will guide the workshop attendee through the slides, videos and 
 
 ## Schedule - Day 1
 
-|                   | April 30th                                                                      |                                                                                                 |
+|                   | Oct 2nd                                                                      |                                                                                                 |
 | ----------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | **8:00-9:00am**   | Doors Open for Badge Pickup                                                     |                                                                                                 |
 | **9:00-9:45am**   | Presentation: Introduction to Intel Edge Insights Softrware                 | [Slides](./presentations/EIS-Intro.pdf)            |
