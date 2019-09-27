@@ -6,7 +6,7 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
 
 The links below will guide the workshop attendee through the slides, videos and labs in the Intel Industrial IoT Workshop.
 
-## Schedule - Day 1
+## Schedule - Day 2
 
 |                   | Oct 2nd                                                                      |                                                                                                 |
 | ----------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
