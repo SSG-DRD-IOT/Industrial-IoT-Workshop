@@ -24,7 +24,7 @@ The links below will guide the workshop attendee through the slides, videos and 
 | **2:30pm-3:00pm** | Lab: Offloading Workloads to Accelerators in DevCloud                           | [Lab](https://access.colfaxresearch.com/)                                                                                 |
 | **3:00-3:30pm**   | Lab: Time Series Data                                                           | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-timeseries/blob/master/README.md) |
 | **3:30-4:00pm**   | Lab: Building Dashboard with Chronograf      | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-chronograf/blob/master/README.md)    
-| **4:00-5:00pm**   | Lab: Explore Industrail Reference Implementations and DevCloud                              | [Lab](https://software.intel.com/en-us/iot/reference-implementations)                           |
+| **4:00-5:00pm**   | Lab: Explore Industrial Reference Implementations and DevCloud                              | [Lab](https://software.intel.com/en-us/iot/reference-implementations)                           |
 
 #### Extra Resources
 
