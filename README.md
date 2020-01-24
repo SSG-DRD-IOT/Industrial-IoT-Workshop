@@ -12,7 +12,7 @@ The links below will guide the workshop attendee through the slides, videos and 
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | Doors Open for Badge Pickup                                                     |                                                                                                 |
 | Presentation: Introduction to Intel Edge Insights Software                 | [Slides](./presentations/EIS-Intro.pdf)            |
-| Demo: Industrial Reference Impementation on IEI Tank - Restricted Zone Notifier | [Demo](https://software.intel.com/en-us/iot/reference-implementations/restricted-zone-notifier) |                  |
+| Demo: Worker Safety Detection Demo | [Demo](https://software.intel.com/en-us/iot/reference-implementations/restricted-zone-notifier) |                  |
 | Demo: PCB Anomaly Detection on EIS                                              |                                                                                                 |
 | Break                                                    |                                                                             |
 | Presentation: EIS Architecture                    | [Slides](./presentations/EIS_Architecture.pdf)  |
