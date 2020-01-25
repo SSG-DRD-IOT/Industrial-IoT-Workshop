@@ -11,7 +11,7 @@ The links below will guide the workshop attendee through the slides, videos and 
 | Oct 2nd                                                                      |                                                                                                 |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | Doors Open for Badge Pickup                                                     |                                                                                                 |
-| Presentation: Introduction to Intel Edge Insights Software                 | [Slides](./presentations/EIS-Intro.pdf)            |
+| Presentation: Introduction to Intel Edge Insights Software                 | [Slides](./presentations/EIS-2.1-Presentation.pdf)            |
 | Demo: Worker Safety Detection Demo | [Demo](https://software.intel.com/en-us/iot/reference-implementations/safety-gear-detector) |                  |
 | Demo: PCB Anomaly Detection on EIS                                              |                                                                                                 |
 | Break                                                    |                                                                             |
