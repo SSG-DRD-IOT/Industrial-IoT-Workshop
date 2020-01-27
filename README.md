@@ -22,7 +22,6 @@ The links below will guide the workshop attendee through the slides, videos and 
 | Lab: User Defined Functions, Filters, Classifiers | [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/udfs.md)|
 | Lab: Worker Safety Gear Setup in EIS| [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/EIS-2.0-Workshop/understanding_ri_to_eis_conversion.md)
 | Lunch  
-| Lab: Deploy Industrial Solution with EIS                                        | [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/master/lab_restricted_zone_notifier.md)                                                                                ||
 | Presentation & Demo: Hardware Acceleration with HDDL-R                          | [Slides](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/SMG-Techconnect/presentations/VPU_Intro.pdf)                                                                               |
 | Lab: Offloading Workloads to Accelerators in DevCloud                           | [Lab](https://colfaxresearch.com/iot-devcloud/)                                                                                 |
 | Lab: Time Series Data                                                           | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-timeseries/blob/master/README.md) |
