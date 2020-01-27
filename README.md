@@ -11,20 +11,19 @@ The links below will guide the workshop attendee through the slides, videos and 
 | Oct 2nd                                                                      |                                                                                                 |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | Doors Open for Badge Pickup                                                     |                                                                                                 |
-| Presentation: Introduction to Intel Edge Insights Software                 | [Slides](./presentations/EIS-Intro.pdf)            |
+| Presentation: Introduction to Intel Edge Insights Software                 | [Slides](./presentations/EIS-2.1-Presentation.pdf)            |
 | Demo: Worker Safety Detection Demo | [Demo](https://software.intel.com/en-us/iot/reference-implementations/safety-gear-detector) |                  |
 | Demo: PCB Anomaly Detection on EIS                                              |                                                                                                 |
 | Break                                                    |                                                                             |
 | Presentation: EIS Architecture                    | [Slides](./presentations/EIS_Architecture.pdf)  |
-| Lab: Introduction to Edge Insights Software| [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/README.md)|
+| Lab: Overview of the Intel Edge Insights Software| [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/README.md)|
 | Lab: EIS Build Environment and Configuration                                          | [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/master/explore_IEdgeInsights.md)  |
-| Lab: Video Ingestion, Cameras and Video Streams | [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/README.md)|
-| Lab: User Defined Functions, Filters, Classifiers | [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/README.md)|
-| Lab: Converting Codebase into EIS| [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/EIS-2.0-Workshop/understanding_ri_to_eis_conversion.md)
+| Lab: Video Ingestion, Cameras and Video Streams | [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/ingestion.md)|
+| Lab: User Defined Functions, Filters, Classifiers | [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/udfs.md)|
+| Lab: Worker Safety Gear Setup in EIS| [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/EIS-2.0-Workshop/understanding_ri_to_eis_conversion.md)
 | Lunch  
-| Lab: Deploy Industrial Solution with EIS                                        | [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/master/lab_restricted_zone_notifier.md)                                                                                ||
 | Presentation & Demo: Hardware Acceleration with HDDL-R                          | [Slides](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/SMG-Techconnect/presentations/VPU_Intro.pdf)                                                                               |
-| Lab: Offloading Workloads to Accelerators in DevCloud                           | [Lab](https://access.colfaxresearch.com/)                                                                                 |
+| Lab: Offloading Workloads to Accelerators in DevCloud                           | [Lab](https://colfaxresearch.com/iot-devcloud/)                                                                                 |
 | Lab: Time Series Data                                                           | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-timeseries/blob/master/README.md) |
 | Lab: Building Dashboard with Chronograf      | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-chronograf/blob/master/README.md)    
 | Lab: Explore Industrial Reference Implementations and DevCloud                              | [Lab](https://software.intel.com/en-us/iot/reference-implementations)                           |
