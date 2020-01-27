@@ -8,16 +8,14 @@ The links below will guide the workshop attendee through the slides, videos and 
 
 ## Schedule - Day 1
 
-| Jan 23rd                                                                      |                                                                                                 |
-| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Jan 23rd           |                                                                      |
+|-----| ------------------------------------------------------------------------------- | 
 | Doors Open for Badge Pickup                                                     |                                                                                                 |
-
 | Presentation: Intel for Industry 4.0                 | [Slides](./presentations/2.1/Intel-for-Industrial-IoT.pdf)            |
 | Presentation: Introduction to Intel Edge Insights Software                 | [Slides](./presentations/2.1/EIS-Intro.pdf)            |
 | Demo: Worker Safety Detection Demo | [Demo](https://software.intel.com/en-us/iot/reference-implementations/safety-gear-detector) |                  |
 | Demo: PCB Anomaly Detection on EIS                                              |                                                                                                 |
 | Break                                                    |                                                                             |
-
 | Presentation: EIS Architecture                    | [Slides](./presentations/EIS_Architecture.pdf)  |
 | Lab: Overview of the Intel Edge Insights Software| [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/README.md)|
 | Lab: EIS Build Environment and Configuration                                          | [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/master/explore_IEdgeInsights.md)  |
