@@ -6,9 +6,9 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
 
 The links below will guide the workshop attendee through the slides, videos and labs in the Intel Industrial IoT Workshop.
 
-## Schedule - Day 2
+## Schedule - Day 1
 
-| Oct 2nd                                                                      |                                                                                                 |
+| Jan 23rd                                                                      |                                                                                                 |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | Doors Open for Badge Pickup                                                     |                                                                                                 |
 | Presentation: Introduction to Intel Edge Insights Software                 | [Slides](./presentations/EIS-2.1-Presentation.pdf)            |
