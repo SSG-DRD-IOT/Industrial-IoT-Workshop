@@ -16,7 +16,7 @@ The links below will guide the workshop attendee through the slides, videos and 
 | Demo: PCB Anomaly Detection on EIS                                              |                                                                                                 |
 | Break                                                    |                                                                             |
 | Presentation: EIS Architecture                    | [Slides](./presentations/EIS_Architecture.pdf)  |
-| Lab: Introduction to Edge Insights Software| [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/README.md)|
+| Lab: Overview of the Intel Edge Insights Software| [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/README.md)|
 | Lab: EIS Build Environment and Configuration                                          | [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/master/explore_IEdgeInsights.md)  |
 | Lab: Video Ingestion, Cameras and Video Streams | [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/ingestion.md)|
 | Lab: User Defined Functions, Filters, Classifiers | [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/udfs.md)|
