@@ -11,13 +11,13 @@ Local Mirror [Intel Edge Insights Software 2.1](http://192.168.0.224/IEdgeInsigh
 ## Setup Version 2.1
 
 ```bash
+xhost +
 sudo su
 tar zxvf IEdgeInsights-2.1.tar.gz
 cd IEdgeInsights/docker_setup/provision
 docker rm -f $(docker ps -a -q)
 ./provision_eis.sh ../docker-compose.yml
 cd ..
-xhost +
 docker-compose up --build
 
 ```
