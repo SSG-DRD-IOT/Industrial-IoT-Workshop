@@ -2,12 +2,6 @@
 
 Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore Industry 4.0 technologies through lectures and hands on labs. By the end of the workshop, you should have a solid understanding of different Industry 4.0 technologies and have some working ideas of how to implement them in your place of business.
 
-## Download the Software First!
-Click here to download the [Intel Edge Insights Software v2.1](https://drive.google.com/open?id=1lBEg5FKjQaJvCm35Bk0aeYtMVb6lZkbA)	
-
-Local Mirror [Intel Edge Insights Software 2.1](http://192.168.0.224/IEdgeInsights-2.1.tar.gz)
-
-
 ## Setup Version 2.1
 
 ```bash
