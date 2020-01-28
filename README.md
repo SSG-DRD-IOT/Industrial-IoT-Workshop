@@ -5,6 +5,8 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
 ## Download the Software First!
 Click here to download the [Intel Edge Insights Software v2.1](https://drive.google.com/open?id=1lBEg5FKjQaJvCm35Bk0aeYtMVb6lZkbA)	
 
+Local Mirror [Intel Edge Insights Software 2.1](http://192.168.0.224/IEdgeInsights-2.1.tar.gz)
+
 
 ## Setup Version 2.1
 
