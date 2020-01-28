@@ -17,6 +17,7 @@ cd IEdgeInsights/docker_setup/provision
 docker rm -f $(docker ps -a -q)
 ./provision_eis.sh ../docker-compose.yml
 cd ..
+xhost +
 docker-compose up --build
 
 ```
