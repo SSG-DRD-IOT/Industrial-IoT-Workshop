@@ -5,6 +5,16 @@ Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore 
 ## Download the Software First!
 Click here to download the [Intel Edge Insights Software v2.1](https://drive.google.com/open?id=1lBEg5FKjQaJvCm35Bk0aeYtMVb6lZkbA)	
 
+
+## Setup Version 2.1
+
+```bash
+tar zxvf IEdgeInsights-2.1.tar.gz
+cd IEdgeInsights/docker_setup/provision
+./provision_eis.sh ../docker-compose.yml
+
+```
+
 ## How Do I Use the Lab Material
 
 The links below will guide the workshop attendee through the slides, videos and labs in the Intel Industrial IoT Workshop.
