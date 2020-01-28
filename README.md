@@ -1,33 +1,38 @@
-﻿# Intel Industrial IoT Workshop
+# Intel Industrial IoT Workshop
 
 Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore Industry 4.0 technologies through lectures and hands on labs. By the end of the workshop, you should have a solid understanding of different Industry 4.0 technologies and have some working ideas of how to implement them in your place of business.
 
-## Download the Intel Edge Insights Software v2.1
-Click here to download the [Intel Edge Insights Software v2.1](https://drive.google.com/open?id=1lBEg5FKjQaJvCm35Bk0aeYtMVb6lZkbA)
+## Download the Software First!
+This link will download the [Intel Edge Insights Software v2.1](https://drive.google.com/open?id=1lBEg5FKjQaJvCm35Bk0aeYtMVb6lZkbA)
 
 ## How Do I Use the Lab Material
 
 The links below will guide the workshop attendee through the slides, videos and labs in the Intel Industrial IoT Workshop.
 
-## Schedule - Day 2
+## Schedule - Day 1
 
-|                   | Oct 2nd                                                                      |                                                                                                 |
-| ----------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| **8:00-9:00am**   | Doors Open for Badge Pickup                                                     |                                                                                                 |
-| **9:00-9:45am**   | Presentation: Introduction to Intel Edge Insights Software                 | [Slides](./presentations/EIS-Intro.pdf)            |
-| **9:45-10:15am**   | Demo: Industrial Reference Impementation on IEI Tank - Restricted Zone Notifier | [Demo](https://software.intel.com/en-us/iot/reference-implementations/restricted-zone-notifier) |                  |
-| **10:15-10:30am** | Demo: PCB Anomaly Detection on EIS                                              |                                                                                                 |
-| **10:30-10:45am** | Break                                                    |                                                                             |
-| **10:45-11:30am**   | Presentation: EIS Architecture                    | [Slides](./presentations/EIS_Architecture.pdf)  |
-| **11:30-12:00pm** | Lab: EIS Intro and Sample Applications                                          | [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/master/explore_IEdgeInsights.md)  
-| **12:00-12:30**| Lab: Converting Codebase into EIS| [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/EIS-2.0-Workshop/understanding_ri_to_eis_conversion.md)
-| **12:30-1:30pm**  | Lunch  
-| **1:30-2:00pm** | Lab: Deploy Industrial Solution with EIS                                        | [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/master/lab_restricted_zone_notifier.md)                                                                                ||
-| **2:00-2:30pm**   | Presentation & Demo: Hardware Acceleration with HDDL-R                          | [Slides](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/SMG-Techconnect/presentations/VPU_Intro.pdf)                                                                               |
-| **2:30pm-3:00pm** | Lab: Offloading Workloads to Accelerators in DevCloud                           | [Lab](https://access.colfaxresearch.com/)                                                                                 |
-| **3:00-3:30pm**   | Lab: Time Series Data                                                           | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-timeseries/blob/master/README.md) |
-| **3:30-4:00pm**   | Lab: Building Dashboard with Chronograf      | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-chronograf/blob/master/README.md)    
-| **4:00-5:00pm**   | Lab: Explore Industrial Reference Implementations and DevCloud                              | [Lab](https://software.intel.com/en-us/iot/reference-implementations)                           |
+| Jan 23rd           |                                                                      |
+|-----| ------------------------------------------------------------------------------- | 
+| Doors Open for Badge Pickup                                                     |                                                                                                 |
+| Presentation: Intel for Industry 4.0                 | [Slides](./presentations/2.1/Intel-for-Industrial-IoT.pdf)            |
+| Presentation: Introduction to Intel Edge Insights Software                 | [Slides](./presentations/2.1/EIS-Intro.pdf)            |
+| Demo: Worker Safety Detection Demo | [Demo](https://software.intel.com/en-us/iot/reference-implementations/safety-gear-detector) |                  |
+| Demo: PCB Anomaly Detection on EIS                                              |                                                                                                 |
+| Break                                                    |                                                                             |
+| Presentation: EIS Architecture                    | [Slides](./presentations/EIS_Architecture.pdf)  |
+| Lab: Overview of the Intel Edge Insights Software| [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/README.md)|
+| Lab: EIS Build Environment and Configuration                                          | [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/master/explore_IEdgeInsights.md)  |
+| Lab: Video Ingestion, Cameras and Video Streams | [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/ingestion.md)|
+| Presentation: Intel Developer Program                 | [Slides](./presentations/2.1/Intel-Developer-Program.pdf)            |
+| Lab: User Defined Functions, Filters, Classifiers | [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/udfs.md)|
+| Lab: Worker Safety Gear Setup in EIS| [Lab](https://github.com/SSG-DRD-IOT/lab-restricted-zone-notifier-using-EIS/blob/EIS-2.0-Workshop/understanding_ri_to_eis_conversion.md)
+| Lunch  
+| Presentation & Demo: Hardware Acceleration with HDDL-R                          | [Slides](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/SMG-Techconnect/presentations/VPU_Intro.pdf)                                                                               |
+| Lab: Offloading Workloads to Accelerators in DevCloud                           | [Lab](https://colfaxresearch.com/iot-devcloud/)                                                                                 |
+| Presentation: Hardware Kits                    | [Slides](./presentations/2.1/Industrial-Hardware.pdf)  |
+| Lab: Time Series Data                                                           | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-timeseries/blob/master/README.md) |
+| Lab: Building Dashboard with Chronograf      | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-chronograf/blob/master/README.md)    
+| Lab: Explore Industrial Reference Implementations and DevCloud                              | [Lab](https://software.intel.com/en-us/iot/reference-implementations)                           |
 
 #### Extra Resources
 
