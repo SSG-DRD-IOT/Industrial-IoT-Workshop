@@ -47,8 +47,7 @@ The links below will guide the workshop attendee through the slides, videos and 
 | Presentation & Demo: Hardware Acceleration with HDDL-R                          | [Slides](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop/blob/SMG-Techconnect/presentations/VPU_Intro.pdf)                                                                               |
 | Lab: Offloading Workloads to Accelerators in DevCloud                           | [Lab](https://colfaxresearch.com/iot-devcloud/)                                                                                 |
 | Presentation: Hardware Kits                    | [Slides](./presentations/2.1/Industrial-Hardware.pdf)  |
-| Lab: Time Series Data                                                           | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-timeseries/blob/master/README.md) |
-| Lab: Building Dashboard with Chronograf      | [Lab](https://github.com/SSG-DRD-IOT/lab-eis-chronograf/blob/master/README.md)    
+| Lab: Time Series Data                                                           | [Lab](https://github.com/SSG-DRD-IOT/EIS-documentation/blob/master/time-series.md) |
 | Lab: Explore Industrial Reference Implementations and DevCloud                              | [Lab](https://software.intel.com/en-us/iot/reference-implementations)                           |
 
 #### Extra Resources
