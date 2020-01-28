@@ -11,7 +11,10 @@ Click here to download the [Intel Edge Insights Software v2.1](https://drive.goo
 ```bash
 tar zxvf IEdgeInsights-2.1.tar.gz
 cd IEdgeInsights/docker_setup/provision
+docker rm -f $(docker ps -a -q)
 ./provision_eis.sh ../docker-compose.yml
+cd ..
+docker-compose up --build
 
 ```
 
