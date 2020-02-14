@@ -2,12 +2,12 @@
 
 Welcome to the Intel Industrial IoT Workshop. In this workshop, we will explore Industry 4.0 technologies through lectures and hands on labs. By the end of the workshop, you should have a solid understanding of different Industry 4.0 technologies and have some working ideas of how to implement them in your place of business.
 
-## Setup Version 2.1
+## Quick Start EIS 2.3
 
 ```bash
 xhost +
 sudo su
-tar zxvf IEdgeInsights-2.1.tar.gz
+tar zxvf IEdgeInsights-2.3.tar.gz
 cd IEdgeInsights/docker_setup/provision
 docker rm -f $(docker ps -a -q)
 ./provision_eis.sh ../docker-compose.yml
